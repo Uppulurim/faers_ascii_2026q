@@ -1,0 +1,1691 @@
+drug,event,count,ror,ror_ci_lower,ror_ci_upper,prr,chi2,signal_flagged
+METHOTREXATE,Mucocutaneous ulceration,7,28.7,10.41,79.14,28.7,99.81,True
+METHOTREXATE,Intracranial hypotension,39,13.9,9.56,20.22,13.9,328.01,True
+METHOTREXATE,Superinfection viral,3,32.8,6.62,162.51,32.8,46.24,False
+METHOTREXATE,Drug clearance decreased,24,9.05,5.76,14.22,9.05,134.66,True
+METHOTREXATE,Colitis erosive,20,9.11,5.55,14.95,9.11,113.02,True
+METHOTREXATE,Chondromalacia,24,8.12,5.19,12.69,8.12,120.02,True
+METHOTREXATE,Eosinophilic pleural effusion,7,10.93,4.65,25.72,10.93,47.38,True
+METHOTREXATE,Bone fissure,13,7.75,4.24,14.19,7.75,61.84,True
+METHOTREXATE,Hip deformity,24,6.4,4.13,9.91,6.4,91.49,True
+METHOTREXATE,SF3B1 gene mutation,3,16.4,4.1,65.57,16.4,28.92,False
+METHOTREXATE,Sweat gland tumour,4,11.93,3.8,37.46,11.93,29.36,False
+METHOTREXATE,Multicentric reticulohistiocytosis,6,8.56,3.48,21.01,8.56,31.75,True
+METHOTREXATE,Thymus disorder,7,7.65,3.36,17.42,7.65,32.83,True
+METHOTREXATE,Whipple's disease,13,5.84,3.24,10.54,5.84,44.27,True
+METHOTREXATE,Idiopathic interstitial pneumonia,12,5.54,3.01,10.22,5.54,38.23,True
+METHOTREXATE,Mycobacterium marinum infection,7,6.75,2.99,15.23,6.75,28.45,True
+METHOTREXATE,Body height below normal,143,3.48,2.93,4.14,3.48,228.73,True
+METHOTREXATE,Proctitis haemorrhagic,4,8.2,2.74,24.53,8.2,20.23,False
+METHOTREXATE,Vascular access site discomfort,4,8.2,2.74,24.53,8.2,20.23,False
+METHOTREXATE,Pericarditis rheumatic,4,8.2,2.74,24.53,8.2,20.23,False
+METHOTREXATE,Extrapulmonary tuberculosis,5,7.13,2.71,18.76,7.13,21.65,True
+METHOTREXATE,Human antichimeric antibody positive,143,3.21,2.7,3.81,3.21,197.74,True
+METHOTREXATE,Pachymeningitis,8,5.58,2.64,11.81,5.58,25.72,True
+METHOTREXATE,Myelocytosis,4,7.72,2.6,22.94,7.72,18.93,False
+METHOTREXATE,Antibody test positive,143,3.08,2.6,3.66,3.08,184.05,True
+METHOTREXATE,Bone density increased,143,3.02,2.54,3.58,3.02,176.51,True
+METHOTREXATE,Short stature,149,2.97,2.52,3.52,2.97,179.06,False
+METHOTREXATE,Clinodactyly,7,5.6,2.51,12.48,5.6,22.59,True
+METHOTREXATE,Drug specific antibody,156,2.96,2.51,3.49,2.96,185.63,False
+METHOTREXATE,Juvenile idiopathic arthritis,146,2.94,2.49,3.49,2.94,171.9,False
+METHOTREXATE,Pustular psoriasis,744,2.63,2.44,2.84,2.63,696.69,False
+METHOTREXATE,Rash vesicular,747,2.6,2.41,2.8,2.6,679.97,False
+METHOTREXATE,Mucosal ulceration,13,4.26,2.39,7.6,4.26,28.74,True
+METHOTREXATE,Hemianopia homonymous,13,4.26,2.39,7.6,4.26,28.74,True
+METHOTREXATE,Lymphomatoid papulosis,4,6.91,2.35,20.3,6.9,16.69,False
+METHOTREXATE,General symptom,674,2.53,2.34,2.73,2.52,576.65,False
+METHOTREXATE,Disseminated Bacillus Calmette-Guerin infection,11,4.4,2.34,8.26,4.4,25.48,True
+METHOTREXATE,Subcutaneous drug absorption impaired,757,2.51,2.33,2.7,2.51,637.91,False
+METHOTREXATE,Testicular germ cell tumour,3,8.2,2.31,29.06,8.2,15.17,False
+METHOTREXATE,Death neonatal,436,2.5,2.27,2.76,2.5,365.74,False
+METHOTREXATE,International normalised ratio fluctuation,156,2.66,2.26,3.13,2.66,149.09,False
+METHOTREXATE,Derealisation,158,2.65,2.26,3.12,2.65,150.46,False
+METHOTREXATE,Disseminated varicella zoster virus infection,4,6.56,2.24,19.19,6.56,15.71,False
+METHOTREXATE,Human anti-human antibody test,29,3.22,2.2,4.72,3.22,40.52,True
+METHOTREXATE,Purtscher retinopathy,9,4.34,2.17,8.7,4.34,20.44,True
+METHOTREXATE,Subdural hygroma,8,4.52,2.16,9.47,4.52,19.3,True
+METHOTREXATE,Necrotising retinitis,4,6.25,2.14,18.2,6.25,14.81,False
+METHOTREXATE,Rhabdomyosarcoma,4,6.25,2.14,18.2,6.25,14.81,False
+METHOTREXATE,Bloody discharge,156,2.51,2.13,2.95,2.51,131.58,False
+METHOTREXATE,Seronegative arthritis,536,2.31,2.12,2.53,2.31,373.03,False
+METHOTREXATE,Infective aneurysm,10,4.1,2.12,7.91,4.1,20.83,True
+METHOTREXATE,Swollen joint count,659,2.28,2.11,2.47,2.28,444.73,False
+METHOTREXATE,Maternal exposure timing unspecified,1633,2.21,2.1,2.32,2.21,1011.13,False
+METHOTREXATE,Palmoplantar pustulosis,8,4.3,2.06,8.99,4.3,17.92,True
+METHOTREXATE,Bone density abnormal,88,2.56,2.06,3.18,2.56,77.52,False
+METHOTREXATE,Sensorimotor disorder,4,5.96,2.05,17.31,5.96,13.98,False
+METHOTREXATE,Swollen joint count increased,2920,2.1,2.03,2.18,2.1,1580.08,False
+METHOTREXATE,Tumefactive multiple sclerosis,3,7.03,2.02,24.46,7.03,12.77,False
+METHOTREXATE,Live birth,2872,2.09,2.02,2.18,2.09,1537.94,False
+METHOTREXATE,Tender joint count increased,3,7.03,2.02,24.46,7.03,12.77,False
+METHOTREXATE,Dislocation of vertebra,2392,2.08,2.0,2.17,2.08,1256.57,False
+METHOTREXATE,Wheelchair user,171,2.34,2.0,2.73,2.34,122.22,False
+METHOTREXATE,Adjustment disorder with depressed mood,2098,2.09,2.0,2.19,2.09,1121.53,False
+METHOTREXATE,Human herpesvirus 6 infection reactivation,8,4.16,2.0,8.69,4.16,17.07,True
+METHOTREXATE,Lyme disease,161,2.33,1.99,2.74,2.33,114.42,False
+METHOTREXATE,Drug tolerance decreased,1228,2.11,1.99,2.23,2.11,671.42,False
+METHOTREXATE,Prescribed underdose,2285,2.07,1.98,2.16,2.07,1183.47,False
+METHOTREXATE,Sciatica,2830,2.05,1.97,2.13,2.05,1428.55,False
+METHOTREXATE,Rheumatoid factor positive,2999,2.05,1.97,2.12,2.04,1502.58,False
+METHOTREXATE,Red blood cell sedimentation rate abnormal,362,2.19,1.97,2.43,2.19,218.69,False
+METHOTREXATE,Foot deformity,1613,2.06,1.96,2.17,2.06,827.36,False
+METHOTREXATE,Pruritus genital,239,2.23,1.96,2.55,2.23,152.31,False
+METHOTREXATE,Joint range of motion decreased,3471,2.0,1.94,2.08,2.0,1639.15,False
+METHOTREXATE,Pregnancy,1567,2.03,1.93,2.14,2.03,769.0,False
+METHOTREXATE,Spondylitis,420,2.13,1.93,2.35,2.13,237.33,False
+METHOTREXATE,Grip strength decreased,2960,1.99,1.92,2.07,1.99,1376.48,False
+METHOTREXATE,Polyarthritis,712,2.07,1.92,2.23,2.07,369.47,False
+METHOTREXATE,Injury,4424,1.97,1.91,2.03,1.96,1984.49,False
+METHOTREXATE,Breast cancer stage II,1170,2.02,1.91,2.15,2.02,570.63,False
+METHOTREXATE,Joint destruction,746,2.05,1.91,2.21,2.05,378.05,False
+METHOTREXATE,X-ray abnormal,1754,1.99,1.9,2.09,1.99,816.69,False
+METHOTREXATE,Hand deformity,4718,1.95,1.9,2.01,1.95,2060.28,False
+METHOTREXATE,Skin hyperpigmentation,185,2.21,1.9,2.56,2.21,114.25,False
+METHOTREXATE,Joint dislocation,1682,1.98,1.89,2.08,1.98,771.89,False
+METHOTREXATE,Synovitis,4518,1.95,1.89,2.01,1.94,1958.29,False
+METHOTREXATE,Anti-cyclic citrullinated peptide antibody,856,2.01,1.88,2.16,2.01,410.14,False
+METHOTREXATE,Stress ulcer,9,3.74,1.88,7.45,3.74,16.19,True
+METHOTREXATE,Lower limb fracture,2962,1.95,1.88,2.02,1.95,1289.22,False
+METHOTREXATE,Gastrointestinal microorganism overgrowth,118,2.26,1.87,2.72,2.26,77.16,False
+METHOTREXATE,Hip arthroplasty,1510,1.97,1.87,2.07,1.97,677.85,False
+METHOTREXATE,Glossodynia,4847,1.92,1.87,1.98,1.91,2004.72,False
+METHOTREXATE,Rheumatic fever,3780,1.93,1.87,2.0,1.93,1592.75,False
+METHOTREXATE,Red blood cell sedimentation rate increased,2155,1.95,1.86,2.03,1.94,934.45,False
+METHOTREXATE,Sarcoid-like reaction,10,3.57,1.86,6.85,3.57,16.65,True
+METHOTREXATE,Adverse reaction,673,2.01,1.86,2.17,2.01,319.69,False
+METHOTREXATE,Wound infection,3267,1.91,1.84,1.98,1.9,1330.66,False
+METHOTREXATE,C-reactive protein abnormal,3351,1.9,1.84,1.97,1.9,1346.1,False
+METHOTREXATE,Delirium,2278,1.9,1.83,1.99,1.9,922.25,False
+METHOTREXATE,Ankle arthroplasty,39,2.53,1.83,3.5,2.53,33.44,False
+METHOTREXATE,Eye infection toxoplasmal,6,4.28,1.83,10.02,4.28,13.33,True
+METHOTREXATE,Retinitis,1473,1.91,1.82,2.02,1.91,606.91,False
+METHOTREXATE,Wound,4814,1.87,1.82,1.93,1.87,1837.27,False
+METHOTREXATE,Road traffic accident,2568,1.9,1.82,1.97,1.89,1026.02,False
+METHOTREXATE,Pemphigus,4544,1.87,1.81,1.92,1.86,1719.93,False
+METHOTREXATE,Ulcer haemorrhage,1205,1.92,1.81,2.03,1.92,499.95,False
+METHOTREXATE,C-reactive protein,1193,1.92,1.81,2.03,1.92,493.88,False
+METHOTREXATE,Gait inability,3705,1.87,1.81,1.93,1.86,1408.8,False
+METHOTREXATE,Palpable purpura,7,3.96,1.81,8.67,3.96,13.81,True
+METHOTREXATE,Bone tuberculosis,8,3.75,1.8,7.79,3.75,14.47,True
+METHOTREXATE,Helicobacter infection,4521,1.86,1.8,1.91,1.85,1680.88,False
+METHOTREXATE,Type 2 diabetes mellitus,4434,1.86,1.8,1.91,1.85,1645.2,False
+METHOTREXATE,Oedema,3295,1.86,1.8,1.93,1.86,1242.58,False
+METHOTREXATE,Tender joint count,49,2.39,1.79,3.19,2.39,36.85,False
+METHOTREXATE,Fibromyalgia,4070,1.83,1.78,1.89,1.83,1454.13,False
+METHOTREXATE,Lip dry,3016,1.84,1.78,1.91,1.84,1096.81,False
+METHOTREXATE,Myositis,577,1.93,1.78,2.1,1.93,244.75,False
+METHOTREXATE,Disability,1191,1.88,1.78,2.0,1.88,466.36,False
+METHOTREXATE,Pleuropericarditis,4,5.05,1.76,14.46,5.05,11.25,False
+METHOTREXATE,"Sleep disorder due to general medical condition, insomnia type",2260,1.82,1.75,1.9,1.82,794.29,False
+METHOTREXATE,Therapy non-responder,2903,1.82,1.75,1.89,1.81,1006.58,False
+METHOTREXATE,Anti-cyclic citrullinated peptide antibody positive,3843,1.8,1.74,1.86,1.8,1293.63,False
+METHOTREXATE,Lupus vulgaris,1891,1.82,1.74,1.91,1.82,662.03,False
+METHOTREXATE,Duodenal ulcer perforation,4262,1.79,1.74,1.85,1.78,1400.22,False
+METHOTREXATE,Deep vein thrombosis postoperative,2606,1.81,1.74,1.88,1.81,892.95,False
+METHOTREXATE,Drug tolerance,715,1.87,1.74,2.02,1.87,275.0,False
+METHOTREXATE,Lupus-like syndrome,1725,1.81,1.73,1.9,1.81,594.82,False
+METHOTREXATE,Liver injury,3853,1.79,1.73,1.85,1.78,1259.84,False
+METHOTREXATE,Psoriatic arthropathy,4140,1.77,1.72,1.83,1.77,1308.95,False
+METHOTREXATE,Irritable bowel syndrome,3734,1.78,1.72,1.84,1.78,1203.07,False
+METHOTREXATE,Prescribed overdose,3126,1.78,1.71,1.84,1.77,1001.01,False
+METHOTREXATE,Trichosporon infection,9,3.39,1.71,6.74,3.39,13.77,True
+METHOTREXATE,Quality of life decreased,332,1.91,1.71,2.14,1.91,136.97,False
+METHOTREXATE,Central nervous system mass,22,2.64,1.71,4.08,2.64,20.8,False
+METHOTREXATE,Airway remodelling,22,2.64,1.71,4.08,2.64,20.8,False
+METHOTREXATE,Folliculitis,3974,1.77,1.71,1.83,1.76,1249.58,False
+METHOTREXATE,Porphyria acute,836,1.83,1.7,1.96,1.83,295.93,False
+METHOTREXATE,Therapeutic product effect decreased,3850,1.76,1.7,1.82,1.76,1191.83,False
+METHOTREXATE,Systemic lupus erythematosus,4735,1.75,1.7,1.8,1.75,1437.36,False
+METHOTREXATE,Musculoskeletal pain,2929,1.76,1.7,1.83,1.76,909.86,False
+METHOTREXATE,Takayasu's arteritis,4,4.86,1.7,13.89,4.86,10.68,False
+METHOTREXATE,Facet joint syndrome,3390,1.75,1.69,1.82,1.75,1039.0,False
+METHOTREXATE,Wall motion score index abnormal,22,2.61,1.69,4.04,2.61,20.31,False
+METHOTREXATE,Joint effusion,189,1.96,1.69,2.27,1.96,84.01,False
+METHOTREXATE,Nerve injury,121,2.03,1.69,2.44,2.03,59.82,False
+METHOTREXATE,Gastrointestinal fistula,12,3.05,1.69,5.51,3.05,15.14,True
+METHOTREXATE,Thymoma benign,8,3.5,1.69,7.25,3.5,12.9,True
+METHOTREXATE,Autoimmune disorder,2539,1.75,1.68,1.82,1.75,773.99,False
+METHOTREXATE,Walking aid user,791,1.81,1.68,1.94,1.81,270.34,False
+METHOTREXATE,Pericarditis,4120,1.74,1.68,1.79,1.73,1218.31,False
+METHOTREXATE,Knee arthroplasty,1488,1.76,1.67,1.85,1.76,461.99,False
+METHOTREXATE,Discomfort,3797,1.73,1.67,1.79,1.73,1106.34,False
+METHOTREXATE,Bone erosion,1694,1.75,1.67,1.84,1.75,520.44,False
+METHOTREXATE,Amnesia,2136,1.75,1.67,1.83,1.75,647.61,False
+METHOTREXATE,Laryngitis,1612,1.76,1.67,1.85,1.76,501.72,False
+METHOTREXATE,Joint stiffness,1696,1.74,1.66,1.83,1.74,510.17,False
+METHOTREXATE,Grip strength,453,1.81,1.65,1.99,1.81,156.7,False
+METHOTREXATE,Muscle injury,3355,1.71,1.65,1.77,1.71,939.21,False
+METHOTREXATE,Epstein-Barr virus associated lymphoma,7,3.59,1.64,7.83,3.59,11.77,True
+METHOTREXATE,Peripheral venous disease,2345,1.71,1.64,1.78,1.7,650.16,False
+METHOTREXATE,Back disorder,577,1.78,1.64,1.94,1.78,187.65,False
+METHOTREXATE,Granulomatous liver disease,4,4.69,1.64,13.36,4.69,10.15,False
+METHOTREXATE,Liver disorder,2721,1.7,1.64,1.77,1.7,745.01,False
+METHOTREXATE,Ill-defined disorder,3209,1.69,1.63,1.75,1.69,860.88,False
+METHOTREXATE,Hypoaesthesia,4623,1.67,1.62,1.72,1.66,1170.94,False
+METHOTREXATE,Breast cancer stage III,2893,1.68,1.62,1.74,1.68,753.14,False
+METHOTREXATE,Scarlet fever,5,4.1,1.62,10.39,4.1,10.42,True
+METHOTREXATE,Night sweats,2928,1.67,1.61,1.74,1.67,751.26,False
+METHOTREXATE,Granuloma,27,2.37,1.61,3.51,2.37,20.03,False
+METHOTREXATE,Blister,3741,1.65,1.6,1.7,1.64,904.03,False
+METHOTREXATE,Arthropathy,4469,1.65,1.6,1.7,1.64,1076.24,False
+METHOTREXATE,Contraindicated product administered,4194,1.65,1.6,1.7,1.64,1005.6,False
+METHOTREXATE,Gingival ulceration,6,3.71,1.6,8.64,3.71,10.68,True
+METHOTREXATE,Microangiopathy,24,2.41,1.59,3.64,2.41,18.39,False
+METHOTREXATE,Obesity,2999,1.65,1.59,1.71,1.64,721.36,False
+METHOTREXATE,Cardiac septal defect,22,2.43,1.58,3.75,2.43,17.23,False
+METHOTREXATE,Product label confusion,861,1.69,1.58,1.81,1.69,231.38,False
+METHOTREXATE,Axonal neuropathy,5,4.0,1.58,10.12,4.0,10.03,True
+METHOTREXATE,Musculoskeletal stiffness,3612,1.63,1.58,1.69,1.63,841.51,False
+METHOTREXATE,Exostosis,2003,1.65,1.58,1.73,1.65,492.42,False
+METHOTREXATE,Hepatic enzyme increased,4421,1.62,1.57,1.67,1.61,986.2,False
+METHOTREXATE,"Sleep disorder due to general medical condition, mixed type",80,1.97,1.57,2.47,1.97,36.12,False
+METHOTREXATE,Feeling hot,1349,1.66,1.57,1.75,1.65,332.66,False
+METHOTREXATE,Spinal cord injury cervical,20,2.48,1.57,3.9,2.48,16.35,False
+METHOTREXATE,Impaired healing,3643,1.62,1.57,1.67,1.62,816.75,False
+METHOTREXATE,Ear pain,1272,1.65,1.56,1.75,1.65,310.28,False
+METHOTREXATE,"Sleep disorder due to general medical condition, hypersomnia type",80,1.96,1.56,2.45,1.96,35.24,False
+METHOTREXATE,Maternal exposure during pregnancy,4264,1.61,1.56,1.66,1.61,942.91,False
+METHOTREXATE,Bursitis,3311,1.61,1.56,1.67,1.61,727.11,False
+METHOTREXATE,Inflammation,3032,1.6,1.55,1.66,1.6,654.98,False
+METHOTREXATE,Adrenal insufficiency,777,1.66,1.55,1.79,1.66,196.09,False
+METHOTREXATE,Tonsillar inflammation,7,3.38,1.55,7.35,3.38,10.61,True
+METHOTREXATE,Fallopian tube abscess,4,4.37,1.54,12.41,4.37,9.18,False
+METHOTREXATE,Pulmonary fibrosis,2562,1.6,1.54,1.66,1.6,544.59,False
+METHOTREXATE,Adverse event,1855,1.61,1.54,1.69,1.61,407.76,False
+METHOTREXATE,Acquired porphyria,79,1.92,1.53,2.41,1.92,33.09,False
+METHOTREXATE,Blood cholesterol,64,1.96,1.53,2.53,1.96,28.56,False
+METHOTREXATE,Overlap syndrome,341,1.7,1.52,1.89,1.7,92.78,False
+METHOTREXATE,Blood cholesterol increased,3402,1.58,1.52,1.63,1.57,679.94,False
+METHOTREXATE,Histoplasmosis disseminated,12,2.73,1.52,4.93,2.73,12.17,False
+METHOTREXATE,Antithrombin III decreased,10,2.88,1.51,5.49,2.88,11.26,False
+METHOTREXATE,Nipple swelling,8,3.09,1.5,6.37,3.09,10.32,True
+METHOTREXATE,Mobility decreased,3813,1.55,1.5,1.6,1.54,702.78,False
+METHOTREXATE,Stomatitis,3647,1.55,1.5,1.61,1.55,684.01,False
+METHOTREXATE,Joint contracture,9,2.95,1.49,5.84,2.95,10.66,False
+METHOTREXATE,Spinal cord abscess,4,4.23,1.49,11.99,4.23,8.75,False
+METHOTREXATE,Hypercholesterolaemia,2792,1.55,1.49,1.61,1.55,519.24,False
+METHOTREXATE,Incorrect route of product administration,1369,1.55,1.47,1.64,1.55,255.1,False
+METHOTREXATE,Frequent bowel movements,1560,1.55,1.47,1.63,1.55,290.14,False
+METHOTREXATE,Intentional product use issue,5107,1.51,1.47,1.55,1.51,837.51,False
+METHOTREXATE,Alopecia,4293,1.52,1.47,1.57,1.52,724.6,False
+METHOTREXATE,Normal newborn,828,1.58,1.47,1.69,1.58,166.66,False
+METHOTREXATE,Swelling,4015,1.51,1.46,1.56,1.5,649.62,False
+METHOTREXATE,Hypertransaminasaemia,489,1.6,1.46,1.75,1.6,105.41,False
+METHOTREXATE,Rheumatoid arthritis,4841,1.5,1.46,1.55,1.5,769.52,False
+METHOTREXATE,Status dystonicus,3,4.92,1.46,16.56,4.92,8.15,False
+METHOTREXATE,Urticaria,3836,1.51,1.46,1.56,1.51,632.73,False
+METHOTREXATE,Non-cirrhotic portal hypertension,8,3.02,1.46,6.22,3.02,9.87,False
+METHOTREXATE,Ear infection,1418,1.54,1.46,1.62,1.53,252.87,False
+METHOTREXATE,Chronic pigmented purpura,3,4.92,1.46,16.56,4.92,8.15,False
+METHOTREXATE,Drug-induced liver injury,1778,1.53,1.46,1.6,1.53,309.64,False
+METHOTREXATE,Jaw fistula,4,4.1,1.45,11.59,4.1,8.33,False
+METHOTREXATE,Osteoarthritis,3064,1.51,1.45,1.56,1.5,496.5,False
+METHOTREXATE,Varices oesophageal,13,2.54,1.44,4.46,2.54,11.25,False
+METHOTREXATE,Tuberculin test positive,16,2.4,1.44,3.98,2.4,12.13,False
+METHOTREXATE,Joint swelling,4230,1.48,1.44,1.53,1.48,635.61,False
+METHOTREXATE,Infusion related reaction,4363,1.48,1.43,1.52,1.48,642.95,False
+METHOTREXATE,Lung disorder,3053,1.48,1.43,1.54,1.48,459.79,False
+METHOTREXATE,Glioma,10,2.73,1.43,5.21,2.73,10.15,False
+METHOTREXATE,Laboratory test abnormal,727,1.54,1.43,1.65,1.54,129.87,False
+METHOTREXATE,Infection,3942,1.47,1.42,1.52,1.47,559.69,False
+METHOTREXATE,Ovarian abscess,6,3.28,1.42,7.59,3.28,8.64,False
+METHOTREXATE,Hepatic cirrhosis,1421,1.49,1.42,1.57,1.49,220.35,False
+METHOTREXATE,Back injury,1539,1.48,1.41,1.56,1.48,228.83,False
+METHOTREXATE,Adverse drug reaction,2061,1.47,1.41,1.54,1.47,297.49,False
+METHOTREXATE,Dyspepsia,3230,1.47,1.41,1.52,1.46,455.45,False
+METHOTREXATE,Maternal exposure before pregnancy,92,1.74,1.41,2.14,1.74,27.33,False
+METHOTREXATE,Drug intolerance,5069,1.45,1.41,1.49,1.45,676.23,False
+METHOTREXATE,Underdose,2041,1.47,1.41,1.54,1.47,296.15,False
+METHOTREXATE,Dry mouth,3476,1.46,1.41,1.51,1.46,479.84,False
+METHOTREXATE,Nail disorder,1415,1.48,1.41,1.56,1.48,212.06,False
+METHOTREXATE,Sinusitis,3358,1.46,1.41,1.51,1.46,465.15,False
+METHOTREXATE,Spinal fusion surgery,247,1.59,1.4,1.81,1.59,51.38,False
+METHOTREXATE,C-reactive protein increased,2681,1.45,1.4,1.51,1.45,359.73,False
+METHOTREXATE,Osteoporosis,1302,1.48,1.4,1.56,1.48,192.9,False
+METHOTREXATE,Exposure during pregnancy,2482,1.45,1.39,1.51,1.45,331.55,False
+METHOTREXATE,Finger deformity,663,1.51,1.39,1.63,1.51,107.67,False
+METHOTREXATE,Hepatitis,691,1.5,1.39,1.61,1.49,108.32,False
+METHOTREXATE,Skin lesion inflammation,7,2.98,1.38,6.46,2.98,8.45,False
+METHOTREXATE,Product quality issue,1648,1.44,1.37,1.51,1.44,212.55,False
+METHOTREXATE,Gait disturbance,2721,1.42,1.37,1.47,1.42,321.7,False
+METHOTREXATE,Glioblastoma multiforme,5,3.42,1.36,8.58,3.42,7.74,False
+METHOTREXATE,Lower respiratory tract infection,3895,1.4,1.36,1.45,1.4,432.13,False
+METHOTREXATE,Treatment failure,3586,1.39,1.35,1.44,1.39,380.13,False
+METHOTREXATE,Pancreatitis,983,1.44,1.35,1.53,1.44,125.18,False
+METHOTREXATE,Posterior reversible encephalopathy syndrome,64,1.73,1.35,2.23,1.73,18.92,False
+METHOTREXATE,Pyomyositis,3,4.47,1.34,14.94,4.47,7.12,False
+METHOTREXATE,Weight fluctuation,598,1.45,1.34,1.58,1.45,80.27,False
+METHOTREXATE,Respiratory disorder,1085,1.43,1.34,1.52,1.43,133.71,False
+METHOTREXATE,Chest pain,2883,1.39,1.34,1.45,1.39,307.42,False
+METHOTREXATE,Incontinence,116,1.6,1.33,1.93,1.6,25.15,False
+METHOTREXATE,Skin graft infection,5,3.35,1.33,8.4,3.35,7.47,False
+METHOTREXATE,Mucosal haemorrhage,10,2.5,1.32,4.76,2.5,8.39,False
+METHOTREXATE,Neutropenic colitis,21,2.04,1.32,3.18,2.04,10.54,False
+METHOTREXATE,Abdominal discomfort,4672,1.36,1.32,1.4,1.35,419.08,False
+METHOTREXATE,Infusion site reaction,436,1.44,1.31,1.58,1.44,55.86,False
+METHOTREXATE,Medication error,1487,1.38,1.31,1.46,1.38,151.63,False
+METHOTREXATE,Atopy,22,2.02,1.31,3.11,2.02,10.69,False
+METHOTREXATE,Mycobacterium chelonae infection,13,2.29,1.31,4.02,2.29,8.85,False
+METHOTREXATE,Hypocholesterolaemia,433,1.43,1.3,1.57,1.43,53.44,False
+METHOTREXATE,Epilepsy,2010,1.36,1.3,1.42,1.36,181.3,False
+METHOTREXATE,Contusion,2866,1.35,1.3,1.4,1.35,248.05,False
+METHOTREXATE,General physical health deterioration,3945,1.34,1.3,1.39,1.34,330.98,False
+METHOTREXATE,Platelet count increased,165,1.51,1.29,1.77,1.51,27.25,False
+METHOTREXATE,Lymphocytic leukaemia,6,2.98,1.29,6.88,2.98,7.24,False
+METHOTREXATE,Gastrointestinal disorder,3414,1.33,1.29,1.38,1.33,274.31,False
+METHOTREXATE,Epstein-Barr virus associated lymphoproliferative disorder,16,2.12,1.28,3.51,2.12,8.85,False
+METHOTREXATE,Metastatic lymphoma,3,4.28,1.28,14.25,4.28,6.67,False
+METHOTREXATE,Duodenitis,26,1.9,1.28,2.81,1.9,10.39,False
+METHOTREXATE,Hypersensitivity,4048,1.32,1.28,1.36,1.32,297.65,False
+METHOTREXATE,Taste disorder,1585,1.35,1.28,1.42,1.35,137.2,False
+METHOTREXATE,Drug specific antibody present,93,1.58,1.28,1.94,1.58,18.74,False
+METHOTREXATE,Retinal deposits,3,4.28,1.28,14.25,4.28,6.67,False
+METHOTREXATE,Sleep disorder,3143,1.32,1.27,1.37,1.32,231.44,False
+METHOTREXATE,Eosinophilic myocarditis,22,1.96,1.27,3.01,1.96,9.69,False
+METHOTREXATE,Wheezing,3938,1.3,1.26,1.35,1.3,268.31,False
+METHOTREXATE,Crohn's disease,1786,1.32,1.26,1.39,1.32,136.22,False
+METHOTREXATE,Macular oedema,29,1.82,1.25,2.64,1.82,10.13,False
+METHOTREXATE,Blepharospasm,1586,1.31,1.25,1.38,1.31,114.22,False
+METHOTREXATE,Pseudostroke,7,2.7,1.25,5.84,2.7,6.93,False
+METHOTREXATE,Drug hypersensitivity,4168,1.28,1.24,1.32,1.28,249.14,False
+METHOTREXATE,Psoriasis,2001,1.3,1.24,1.36,1.3,133.87,False
+METHOTREXATE,Eye injury,318,1.38,1.24,1.55,1.38,32.18,False
+METHOTREXATE,Onychomadesis,1149,1.3,1.23,1.38,1.3,77.04,False
+METHOTREXATE,Bone density decreased,196,1.42,1.23,1.63,1.42,22.94,False
+METHOTREXATE,Tuberculosis of genitourinary system,3,4.1,1.23,13.62,4.1,6.25,False
+METHOTREXATE,Therapeutic response decreased,792,1.32,1.23,1.42,1.32,58.91,False
+METHOTREXATE,Liver function test increased,1296,1.3,1.23,1.37,1.3,86.33,False
+METHOTREXATE,Muscle spasticity,496,1.35,1.23,1.48,1.35,42.91,False
+METHOTREXATE,Memory impairment,2703,1.27,1.22,1.32,1.27,146.13,False
+METHOTREXATE,Kidney enlargement,9,2.4,1.22,4.72,2.4,6.85,False
+METHOTREXATE,Paraesthesia,2354,1.27,1.21,1.32,1.26,126.06,False
+METHOTREXATE,Neck pain,1294,1.28,1.21,1.35,1.28,76.3,False
+METHOTREXATE,Vaginal disorder,4,3.36,1.2,9.41,3.36,6.03,False
+METHOTREXATE,Gottron's papules,4,3.36,1.2,9.41,3.36,6.03,False
+METHOTREXATE,Product use issue,3870,1.24,1.2,1.28,1.24,174.08,False
+METHOTREXATE,Peripheral swelling,3454,1.24,1.2,1.28,1.24,152.39,False
+METHOTREXATE,Hepatic enzyme,204,1.37,1.19,1.58,1.37,19.62,False
+METHOTREXATE,Coeliac disease,724,1.28,1.19,1.38,1.28,41.97,False
+METHOTREXATE,Burkitt's lymphoma recurrent,5,2.98,1.19,7.45,2.98,6.04,False
+METHOTREXATE,Tuberculous pleurisy,5,2.98,1.19,7.45,2.98,6.04,False
+METHOTREXATE,Blood brain barrier defect,5,2.98,1.19,7.45,2.98,6.04,False
+METHOTREXATE,Small intestinal obstruction,167,1.38,1.19,1.62,1.38,17.04,False
+METHOTREXATE,Aphakia,3,3.94,1.19,13.04,3.94,5.87,False
+METHOTREXATE,Retinal depigmentation,3,3.94,1.19,13.04,3.94,5.87,False
+METHOTREXATE,Muscular weakness,2445,1.23,1.18,1.28,1.23,103.62,False
+METHOTREXATE,Visual impairment,1411,1.24,1.18,1.31,1.24,64.02,False
+METHOTREXATE,Skin wound,73,1.49,1.18,1.89,1.49,11.43,False
+METHOTREXATE,White blood cell count increased,857,1.26,1.17,1.35,1.26,43.17,False
+METHOTREXATE,Migraine,2620,1.22,1.17,1.27,1.22,100.8,False
+METHOTREXATE,Rash,5297,1.2,1.17,1.24,1.2,171.78,False
+METHOTREXATE,Cold type haemolytic anaemia,6,2.66,1.16,6.11,2.66,5.75,False
+METHOTREXATE,Hypertension,4606,1.19,1.16,1.23,1.19,134.84,False
+METHOTREXATE,Weight increased,3910,1.19,1.16,1.23,1.19,118.83,False
+METHOTREXATE,Mucosal erosion,7,2.5,1.16,5.38,2.5,5.83,False
+METHOTREXATE,Rash pruritic,728,1.25,1.16,1.35,1.25,35.21,False
+METHOTREXATE,Angiocentric lymphoma,6,2.62,1.14,6.03,2.62,5.58,False
+METHOTREXATE,Decreased appetite,3853,1.18,1.14,1.22,1.18,99.47,False
+METHOTREXATE,Burning sensation,407,1.24,1.13,1.37,1.24,18.74,False
+METHOTREXATE,Mycobacterium ulcerans infection,8,2.32,1.13,4.76,2.32,5.62,False
+METHOTREXATE,Penicillium infection,5,2.78,1.12,6.93,2.78,5.25,False
+METHOTREXATE,Paraparesis,19,1.78,1.12,2.83,1.78,6.17,False
+METHOTREXATE,Malaise,4467,1.15,1.12,1.19,1.15,85.48,False
+METHOTREXATE,Confusional state,3521,1.16,1.12,1.2,1.16,77.08,False
+METHOTREXATE,Rectal haemorrhage,990,1.18,1.11,1.26,1.18,26.21,False
+METHOTREXATE,Acute graft versus host disease in skin,23,1.7,1.11,2.58,1.7,6.24,False
+METHOTREXATE,Insomnia,2726,1.14,1.1,1.19,1.14,47.0,False
+METHOTREXATE,Gastroenteritis viral,289,1.24,1.1,1.4,1.24,13.02,False
+METHOTREXATE,Hypopituitarism,10,2.08,1.1,3.93,2.08,5.24,False
+METHOTREXATE,Cystitis bacterial,8,2.24,1.1,4.59,2.24,5.16,False
+METHOTREXATE,Fluid retention,957,1.17,1.1,1.25,1.17,23.99,False
+METHOTREXATE,Liver function test abnormal,127,1.31,1.1,1.57,1.31,9.12,False
+METHOTREXATE,Depression,2792,1.15,1.1,1.19,1.15,50.05,False
+METHOTREXATE,Arthritis,1662,1.15,1.09,1.2,1.15,29.63,False
+METHOTREXATE,Muscle spasms,2801,1.12,1.08,1.17,1.12,36.0,False
+METHOTREXATE,Abdominal adhesions,34,1.53,1.08,2.16,1.53,5.96,False
+METHOTREXATE,Nail operation,11,1.97,1.07,3.62,1.97,4.97,False
+METHOTREXATE,Tubulointerstitial nephritis and uveitis syndrome,3,3.51,1.07,11.56,3.51,4.87,False
+METHOTREXATE,Therapeutic product effect incomplete,2118,1.12,1.07,1.17,1.12,24.99,False
+METHOTREXATE,Onychomycosis,727,1.14,1.06,1.23,1.14,12.25,False
+METHOTREXATE,Arthralgia,4794,1.09,1.06,1.13,1.09,37.69,False
+METHOTREXATE,Acute graft versus host disease in liver,7,2.27,1.06,4.89,2.27,4.67,False
+METHOTREXATE,Immunodeficiency,788,1.13,1.05,1.21,1.13,10.95,False
+METHOTREXATE,Incorrect product administration duration,336,1.17,1.05,1.3,1.17,7.69,False
+METHOTREXATE,Ureaplasma infection,4,2.92,1.05,8.11,2.92,4.62,False
+METHOTREXATE,Granuloma skin,42,1.42,1.04,1.93,1.42,4.97,False
+METHOTREXATE,Loss of consciousness,840,1.11,1.04,1.19,1.11,9.25,False
+METHOTREXATE,H1N1 influenza,11,1.92,1.04,3.52,1.92,4.57,False
+METHOTREXATE,Skin necrosis,50,1.38,1.04,1.83,1.38,4.93,False
+METHOTREXATE,Neurotoxicity,65,1.32,1.03,1.7,1.32,4.94,False
+METHOTREXATE,Septic shock,343,1.15,1.03,1.28,1.15,6.33,False
+METHOTREXATE,Mycobacterial infection,20,1.61,1.03,2.52,1.61,4.38,False
+METHOTREXATE,Prostatic abscess,4,2.85,1.03,7.92,2.85,4.43,False
+METHOTREXATE,Pancreatic enlargement,9,2.02,1.03,3.96,2.02,4.38,False
+METHOTREXATE,Body temperature increased,359,1.13,1.02,1.26,1.13,5.33,False
+METHOTREXATE,Ocular lymphoma,4,2.79,1.01,7.75,2.79,4.24,False
+METHOTREXATE,Nasopharyngitis,3561,1.04,1.01,1.08,1.04,6.61,False
+METHOTREXATE,Ventricular hypokinesia,22,1.55,1.01,2.37,1.55,4.04,False
+METHOTREXATE,Human herpesvirus 6 infection,13,1.75,1.0,3.07,1.75,4.01,False
+METHOTREXATE,Condition aggravated,4585,1.03,1.0,1.06,1.03,3.21,False
+METHOTREXATE,Pain in extremity,3123,1.03,1.0,1.07,1.03,2.96,False
+METHOTREXATE,Pyoderma,5,2.48,1.0,6.17,2.48,4.12,False
+METHOTREXATE,Oedema peripheral,1879,1.04,0.99,1.09,1.04,2.5,False
+METHOTREXATE,Tachycardia,874,1.05,0.98,1.12,1.05,1.83,False
+METHOTREXATE,Foot operation,41,1.34,0.98,1.84,1.34,3.48,False
+METHOTREXATE,Product use in unapproved indication,3627,1.01,0.98,1.04,1.01,0.29,False
+METHOTREXATE,Meniscus injury,33,1.37,0.97,1.94,1.37,3.19,False
+METHOTREXATE,Abdominal pain upper,3097,1.01,0.97,1.04,1.01,0.13,False
+METHOTREXATE,Amyloid arthropathy,274,1.09,0.96,1.23,1.09,1.9,False
+METHOTREXATE,Pruritus,3090,0.98,0.95,1.02,0.98,1.22,False
+METHOTREXATE,Panniculitis,43,1.28,0.94,1.74,1.28,2.53,False
+METHOTREXATE,Bronchitis,868,1.01,0.94,1.08,1.01,0.04,False
+METHOTREXATE,Loss of employment,93,1.15,0.94,1.42,1.15,1.84,False
+METHOTREXATE,Mitral valve repair,4,2.57,0.93,7.12,2.57,3.57,False
+METHOTREXATE,Pulmonary pain,337,1.03,0.93,1.15,1.03,0.38,False
+METHOTREXATE,Adenovirus infection,23,1.39,0.92,2.11,1.39,2.41,False
+METHOTREXATE,Colitis ulcerative,1199,0.98,0.92,1.03,0.98,0.73,False
+METHOTREXATE,Pyrexia,3975,0.95,0.92,0.98,0.95,12.23,False
+METHOTREXATE,Drug ineffective,6220,0.95,0.92,0.97,0.95,17.83,False
+METHOTREXATE,Gastrooesophageal reflux disease,1815,0.97,0.92,1.01,0.97,2.12,False
+METHOTREXATE,Corneal epitheliopathy,3,2.98,0.91,9.72,2.98,3.62,False
+METHOTREXATE,Staphylococcal infection,167,1.06,0.91,1.24,1.06,0.54,False
+METHOTREXATE,Reflexes abnormal,3,2.98,0.91,9.72,2.98,3.62,False
+METHOTREXATE,Abdominal pain,2793,0.94,0.91,0.98,0.94,9.19,False
+METHOTREXATE,Asthenia,3399,0.93,0.9,0.96,0.93,19.2,False
+METHOTREXATE,Breast cancer stage I,51,1.19,0.9,1.58,1.19,1.53,False
+METHOTREXATE,Hypokalaemia,675,0.97,0.9,1.05,0.97,0.66,False
+METHOTREXATE,Anxiety,2300,0.94,0.9,0.98,0.94,7.7,False
+METHOTREXATE,Aortic dissection,9,1.77,0.9,3.46,1.77,2.85,False
+METHOTREXATE,Tendon operation,3,2.89,0.89,9.42,2.89,3.42,False
+METHOTREXATE,Eosinophilic pneumonia,26,1.31,0.89,1.94,1.31,1.85,False
+METHOTREXATE,Blood parathyroid hormone decreased,42,1.19,0.88,1.62,1.19,1.25,False
+METHOTREXATE,Asthma,2570,0.92,0.88,0.95,0.92,19.23,False
+METHOTREXATE,Subdural haemorrhage,9,1.72,0.88,3.35,1.72,2.56,False
+METHOTREXATE,Granulomatous lymphadenitis,4,2.43,0.88,6.71,2.43,3.13,False
+METHOTREXATE,Temperature intolerance,104,1.08,0.88,1.31,1.08,0.53,False
+METHOTREXATE,Rheumatoid nodule,82,1.1,0.88,1.37,1.1,0.75,False
+METHOTREXATE,Ileocaecal resection,5,2.16,0.87,5.33,2.16,2.91,False
+METHOTREXATE,Harvey-Bradshaw index abnormal,3,2.81,0.86,9.14,2.81,3.22,False
+METHOTREXATE,Cystoid macular oedema,15,1.44,0.86,2.41,1.44,1.92,False
+METHOTREXATE,Spinal stenosis,65,1.1,0.86,1.41,1.1,0.6,False
+METHOTREXATE,Congenital anomaly,241,0.98,0.86,1.12,0.98,0.08,False
+METHOTREXATE,Microsporidia infection,5,2.1,0.85,5.19,2.1,2.72,False
+METHOTREXATE,Dizziness,3773,0.88,0.85,0.91,0.88,60.16,False
+METHOTREXATE,Vomiting,4046,0.86,0.84,0.89,0.86,85.02,False
+METHOTREXATE,Pain,4674,0.87,0.84,0.89,0.87,91.33,False
+METHOTREXATE,Hepatorenal syndrome,7,1.78,0.83,3.81,1.78,2.27,False
+METHOTREXATE,Acute graft versus host disease in intestine,14,1.41,0.83,2.41,1.41,1.62,False
+METHOTREXATE,Non-Hodgkin's lymphoma,19,1.3,0.82,2.05,1.3,1.25,False
+METHOTREXATE,Hypocalcaemia,282,0.92,0.82,1.04,0.92,1.74,False
+METHOTREXATE,Injection site reaction,563,0.89,0.82,0.97,0.89,7.24,False
+METHOTREXATE,Loss of personal independence in daily activities,1228,0.87,0.82,0.92,0.87,23.0,False
+METHOTREXATE,Joint arthroplasty,26,1.22,0.82,1.8,1.22,0.99,False
+METHOTREXATE,Septic embolus,5,2.02,0.82,5.0,2.02,2.44,False
+METHOTREXATE,Adenocarcinoma of colon,9,1.6,0.82,3.12,1.6,1.91,False
+METHOTREXATE,Diffuse large B-cell lymphoma,37,1.14,0.82,1.58,1.14,0.59,False
+METHOTREXATE,Extradural haematoma,9,1.59,0.81,3.1,1.59,1.86,False
+METHOTREXATE,Burkitt's lymphoma,5,2.0,0.81,4.93,2.0,2.36,False
+METHOTREXATE,Adenoviral haemorrhagic cystitis,3,2.59,0.8,8.39,2.59,2.71,False
+METHOTREXATE,Pneumonia,2998,0.83,0.8,0.86,0.83,96.89,False
+METHOTREXATE,Portal hypertensive gastropathy,6,1.82,0.8,4.15,1.82,2.11,False
+METHOTREXATE,Product administration error,250,0.89,0.79,1.01,0.89,3.05,False
+METHOTREXATE,Antiphospholipid antibodies,28,1.15,0.79,1.67,1.15,0.51,False
+METHOTREXATE,Lymphoproliferative disorder,16,1.3,0.79,2.14,1.3,1.04,False
+METHOTREXATE,Weight decreased,2320,0.83,0.79,0.86,0.83,81.52,False
+METHOTREXATE,Iatrogenic Kaposi sarcoma,4,2.19,0.79,6.02,2.19,2.41,False
+METHOTREXATE,Angioimmunoblastic T-cell lymphoma,3,2.52,0.78,8.16,2.52,2.56,False
+METHOTREXATE,Peripheral coldness,106,0.95,0.78,1.15,0.95,0.26,False
+METHOTREXATE,Sleep disorder due to a general medical condition,704,0.84,0.78,0.9,0.84,22.09,False
+METHOTREXATE,Treatment noncompliance,376,0.86,0.78,0.95,0.86,8.51,False
+METHOTREXATE,Extranodal marginal zone B-cell lymphoma (MALT type),4,2.15,0.78,5.91,2.15,2.31,False
+METHOTREXATE,Off label use,7709,0.79,0.77,0.81,0.79,404.96,False
+METHOTREXATE,Intentional product misuse,942,0.81,0.76,0.86,0.81,42.22,False
+METHOTREXATE,Iridocyclitis,11,1.38,0.76,2.53,1.38,1.12,False
+METHOTREXATE,Fatigue,5132,0.78,0.76,0.8,0.78,311.98,False
+METHOTREXATE,Rotator cuff syndrome,39,1.04,0.76,1.44,1.04,0.07,False
+METHOTREXATE,Latent tuberculosis,8,1.55,0.76,3.16,1.55,1.5,False
+METHOTREXATE,Dyspnoea,3988,0.77,0.75,0.8,0.78,254.97,False
+METHOTREXATE,Bone marrow failure,50,0.99,0.75,1.31,0.99,0.0,False
+METHOTREXATE,Crepitations,45,1.01,0.75,1.36,1.01,0.01,False
+METHOTREXATE,Tenderness,79,0.93,0.74,1.16,0.93,0.43,False
+METHOTREXATE,Iron deficiency,162,0.86,0.74,1.01,0.86,3.51,False
+METHOTREXATE,Infective tenosynovitis,3,2.34,0.73,7.56,2.34,2.15,False
+METHOTREXATE,Epstein-Barr virus infection reactivation,22,1.12,0.73,1.71,1.12,0.28,False
+METHOTREXATE,Extradural abscess,9,1.43,0.73,2.78,1.43,1.1,False
+METHOTREXATE,JC virus infection,16,1.2,0.73,1.98,1.2,0.53,False
+METHOTREXATE,Diarrhoea,4006,0.74,0.72,0.76,0.74,362.68,False
+METHOTREXATE,Headache,4129,0.74,0.72,0.76,0.74,366.6,False
+METHOTREXATE,Upper respiratory tract infection,979,0.75,0.71,0.8,0.75,78.38,False
+METHOTREXATE,Enterovesical fistula,4,1.96,0.71,5.37,1.96,1.77,False
+METHOTREXATE,Inflammatory pain,5,1.74,0.71,4.29,1.74,1.51,False
+METHOTREXATE,Skin neoplasm excision,15,1.19,0.71,2.0,1.19,0.46,False
+METHOTREXATE,Synovial fluid analysis,32,0.99,0.7,1.41,0.99,0.0,False
+METHOTREXATE,Chronic graft versus host disease in intestine,4,1.93,0.7,5.29,1.93,1.69,False
+METHOTREXATE,Abdominal distension,901,0.75,0.7,0.8,0.75,76.54,False
+METHOTREXATE,No adverse event,265,0.78,0.69,0.88,0.78,15.59,False
+METHOTREXATE,Hepatic steatosis,163,0.8,0.69,0.94,0.8,7.79,False
+METHOTREXATE,Oral mucosa erosion,3,2.24,0.69,7.2,2.24,1.92,False
+METHOTREXATE,Pituitary tumour benign,6,1.56,0.69,3.54,1.56,1.16,False
+METHOTREXATE,Leukopenia,593,0.74,0.69,0.81,0.74,51.34,False
+METHOTREXATE,Intercepted product administration error,4,1.9,0.69,5.21,1.9,1.62,False
+METHOTREXATE,Drain placement,5,1.67,0.68,4.11,1.67,1.29,False
+METHOTREXATE,Synovial disorder,32,0.97,0.68,1.38,0.97,0.03,False
+METHOTREXATE,Deformity,46,0.89,0.67,1.2,0.89,0.55,False
+METHOTREXATE,Orchitis,6,1.51,0.67,3.43,1.51,1.0,False
+METHOTREXATE,Spinal osteoarthritis,41,0.91,0.67,1.24,0.91,0.35,False
+METHOTREXATE,Rotator cuff repair,12,1.19,0.67,2.12,1.19,0.36,False
+METHOTREXATE,Connective tissue disease-associated interstitial lung disease,4,1.8,0.66,4.92,1.8,1.34,False
+METHOTREXATE,Device use confusion,8,1.35,0.66,2.73,1.35,0.68,False
+METHOTREXATE,Hypogammaglobulinaemia,64,0.85,0.66,1.09,0.85,1.69,False
+METHOTREXATE,Antinuclear antibody positive,34,0.92,0.66,1.3,0.92,0.21,False
+METHOTREXATE,Hepatic enzyme decreased,32,0.93,0.66,1.32,0.93,0.16,False
+METHOTREXATE,Impaired quality of life,230,0.76,0.66,0.86,0.76,17.62,False
+METHOTREXATE,Nodule,196,0.76,0.66,0.87,0.76,14.99,False
+METHOTREXATE,Epstein-Barr virus infection,24,0.97,0.65,1.46,0.97,0.02,False
+METHOTREXATE,Nipple pain,8,1.31,0.65,2.66,1.31,0.57,False
+METHOTREXATE,Nausea,3942,0.66,0.64,0.68,0.66,694.57,False
+METHOTREXATE,Incorrect product dosage form administered,3,2.05,0.64,6.58,2.05,1.52,False
+METHOTREXATE,Scleritis,33,0.9,0.64,1.27,0.9,0.35,False
+METHOTREXATE,Bronchostenosis,3,2.01,0.63,6.44,2.01,1.43,False
+METHOTREXATE,Autoinflammatory disease,5,1.53,0.63,3.76,1.53,0.88,False
+METHOTREXATE,Anorectal swelling,4,1.73,0.63,4.72,1.73,1.16,False
+METHOTREXATE,Vitritis,9,1.22,0.63,2.38,1.22,0.36,False
+METHOTREXATE,Secondary hypogonadism,4,1.7,0.62,4.66,1.7,1.11,False
+METHOTREXATE,Tenosynovitis stenosans,35,0.87,0.62,1.21,0.87,0.69,False
+METHOTREXATE,Idiopathic intracranial hypertension,8,1.23,0.61,2.5,1.23,0.34,False
+METHOTREXATE,Philadelphia positive acute lymphocytic leukaemia,4,1.66,0.61,4.53,1.66,1.0,False
+METHOTREXATE,Guillain-Barre syndrome,14,1.05,0.61,1.78,1.05,0.03,False
+METHOTREXATE,Organising pneumonia,13,1.05,0.61,1.83,1.05,0.03,False
+METHOTREXATE,Limb discomfort,153,0.72,0.61,0.84,0.72,16.35,False
+METHOTREXATE,Epstein-Barr viraemia,7,1.28,0.6,2.73,1.28,0.42,False
+METHOTREXATE,Tenosynovitis,34,0.85,0.6,1.19,0.85,0.9,False
+METHOTREXATE,Skin ulcer,103,0.73,0.6,0.89,0.73,9.79,False
+METHOTREXATE,Benign mediastinal neoplasm,3,1.93,0.6,6.18,1.93,1.27,False
+METHOTREXATE,Parvovirus B19 infection,5,1.45,0.59,3.55,1.45,0.67,False
+METHOTREXATE,Breast ulceration,5,1.43,0.58,3.49,1.43,0.61,False
+METHOTREXATE,Hepatitis B reactivation,9,1.13,0.58,2.2,1.13,0.13,False
+METHOTREXATE,Swollen joint count decreased,10,1.08,0.58,2.03,1.08,0.06,False
+METHOTREXATE,Mammogram abnormal,3,1.86,0.58,5.94,1.86,1.12,False
+METHOTREXATE,Primary amyloidosis,3,1.86,0.58,5.94,1.86,1.12,False
+METHOTREXATE,Pulmonary toxicity,41,0.8,0.58,1.09,0.8,2.07,False
+METHOTREXATE,Polychondritis,5,1.41,0.58,3.46,1.41,0.58,False
+METHOTREXATE,Conductive deafness,3,1.82,0.57,5.83,1.82,1.05,False
+METHOTREXATE,Sacroiliitis,13,1.0,0.57,1.73,1.0,0.0,False
+METHOTREXATE,Product prescribing issue,154,0.65,0.56,0.77,0.65,27.75,False
+METHOTREXATE,Foetal exposure during pregnancy,215,0.64,0.56,0.74,0.64,41.26,False
+METHOTREXATE,Cardiac failure congestive,137,0.66,0.56,0.78,0.66,23.46,False
+METHOTREXATE,Pulmonary tuberculosis,9,1.09,0.56,2.12,1.09,0.06,False
+METHOTREXATE,Anaesthesia,4,1.53,0.56,4.16,1.53,0.69,False
+METHOTREXATE,Synovial cyst,43,0.76,0.56,1.03,0.76,3.18,False
+METHOTREXATE,Enzyme level abnormal,3,1.79,0.56,5.72,1.79,0.99,False
+METHOTREXATE,Haemophagocytic lymphohistiocytosis,39,0.76,0.55,1.05,0.76,2.83,False
+METHOTREXATE,Graft versus host disease in skin,7,1.18,0.55,2.5,1.18,0.18,False
+METHOTREXATE,Red blood cell sedimentation rate decreased,33,0.78,0.55,1.1,0.78,1.96,False
+METHOTREXATE,BK virus infection,16,0.9,0.55,1.47,0.9,0.18,False
+METHOTREXATE,Bicytopenia,8,1.08,0.54,2.19,1.08,0.05,False
+METHOTREXATE,Pleural effusion,304,0.61,0.54,0.68,0.61,76.4,False
+METHOTREXATE,Peripheral sensorimotor neuropathy,10,1.02,0.54,1.92,1.02,0.0,False
+METHOTREXATE,Drug dependence,268,0.61,0.54,0.69,0.61,65.91,False
+METHOTREXATE,Carbuncle,17,0.88,0.54,1.42,0.88,0.27,False
+METHOTREXATE,Joint injury,202,0.62,0.54,0.71,0.62,45.94,False
+METHOTREXATE,Ischaemic hepatitis,7,1.13,0.53,2.39,1.13,0.09,False
+METHOTREXATE,Neurological examination abnormal,3,1.7,0.53,5.41,1.7,0.82,False
+METHOTREXATE,Pyoderma gangrenosum,21,0.81,0.53,1.25,0.81,0.89,False
+METHOTREXATE,Klebsiella infection,17,0.86,0.53,1.39,0.86,0.37,False
+METHOTREXATE,Depressed mood,214,0.61,0.53,0.69,0.61,53.45,False
+METHOTREXATE,Thymoma,5,1.28,0.52,3.13,1.28,0.3,False
+METHOTREXATE,Adenovirus reactivation,3,1.67,0.52,5.32,1.67,0.76,False
+METHOTREXATE,Growth hormone deficiency,3,1.67,0.52,5.32,1.67,0.76,False
+METHOTREXATE,Drug ineffective for unapproved indication,324,0.58,0.52,0.65,0.58,96.91,False
+METHOTREXATE,Neoplasm skin,15,0.86,0.52,1.44,0.86,0.31,False
+METHOTREXATE,Pancytopenia,138,0.61,0.52,0.72,0.61,33.26,False
+METHOTREXATE,Hypercalcaemia,48,0.68,0.51,0.91,0.68,7.08,False
+METHOTREXATE,Postmenopausal haemorrhage,10,0.95,0.51,1.79,0.95,0.02,False
+METHOTREXATE,Mediastinal cyst,3,1.64,0.51,5.23,1.64,0.71,False
+METHOTREXATE,Hepatic lesion,15,0.85,0.51,1.42,0.85,0.37,False
+METHOTREXATE,Pulpless tooth,4,1.4,0.51,3.8,1.4,0.43,False
+METHOTREXATE,Overdose,956,0.54,0.51,0.58,0.54,360.79,False
+METHOTREXATE,Obstructive pancreatitis,7,1.07,0.51,2.28,1.07,0.03,False
+METHOTREXATE,Hepatotoxicity,100,0.63,0.51,0.76,0.63,22.0,False
+METHOTREXATE,Drug abuse,357,0.57,0.51,0.63,0.57,112.59,False
+METHOTREXATE,Squamous cell carcinoma of skin,21,0.79,0.51,1.21,0.79,1.17,False
+METHOTREXATE,Salmonella sepsis,3,1.61,0.51,5.14,1.61,0.67,False
+METHOTREXATE,Cushingoid,41,0.7,0.51,0.95,0.7,5.27,False
+METHOTREXATE,Occipital lobe stroke,3,1.64,0.51,5.23,1.64,0.71,False
+METHOTREXATE,Respiratory tract congestion,168,0.6,0.51,0.69,0.6,45.2,False
+METHOTREXATE,Fibrosis,18,0.79,0.5,1.27,0.79,0.93,False
+METHOTREXATE,Atypical mycobacterial infection,8,1.02,0.5,2.06,1.02,0.0,False
+METHOTREXATE,Retinal degeneration,4,1.35,0.5,3.68,1.35,0.35,False
+METHOTREXATE,Splenic rupture,3,1.59,0.5,5.06,1.59,0.62,False
+METHOTREXATE,Functional gastrointestinal disorder,26,0.73,0.5,1.08,0.73,2.5,False
+METHOTREXATE,Metabolic dysfunction-associated liver disease,6,1.1,0.49,2.48,1.1,0.05,False
+METHOTREXATE,Necrotising soft tissue infection,3,1.56,0.49,4.97,1.56,0.58,False
+METHOTREXATE,Inappropriate schedule of product administration,971,0.53,0.49,0.56,0.53,409.53,False
+METHOTREXATE,Eyelid sensory disorder,3,1.56,0.49,4.97,1.56,0.58,False
+METHOTREXATE,Peptic ulcer,11,0.89,0.49,1.63,0.89,0.14,False
+METHOTREXATE,Gastrointestinal infection,44,0.64,0.48,0.86,0.64,8.72,False
+METHOTREXATE,Atelectasis,37,0.67,0.48,0.93,0.67,5.96,False
+METHOTREXATE,Pericarditis constrictive,4,1.31,0.48,3.56,1.31,0.29,False
+METHOTREXATE,Large granular lymphocytosis,3,1.51,0.48,4.82,1.51,0.5,False
+METHOTREXATE,Monoclonal immunoglobulin present,16,0.77,0.47,1.27,0.77,1.06,False
+METHOTREXATE,Polymyalgia rheumatica,12,0.83,0.47,1.47,0.83,0.41,False
+METHOTREXATE,Livedo reticularis,7,1.0,0.47,2.12,1.0,0.0,False
+METHOTREXATE,Systemic scleroderma,4,1.27,0.47,3.46,1.27,0.23,False
+METHOTREXATE,Infection in an immunocompromised host,3,1.49,0.47,4.74,1.49,0.46,False
+METHOTREXATE,Blood immunoglobulin E increased,22,0.71,0.47,1.09,0.71,2.5,False
+METHOTREXATE,Hypothalamo-pituitary disorder,18,0.75,0.47,1.19,0.75,1.53,False
+METHOTREXATE,Allergy to chemicals,32,0.67,0.47,0.95,0.67,5.26,False
+METHOTREXATE,Acute graft versus host disease,12,0.82,0.46,1.45,0.82,0.48,False
+METHOTREXATE,Paresis,5,1.13,0.46,2.76,1.13,0.07,False
+METHOTREXATE,Gallbladder enlargement,9,0.9,0.46,1.74,0.9,0.1,False
+METHOTREXATE,Breast cancer,53,0.6,0.46,0.78,0.6,14.11,False
+METHOTREXATE,Optic disc oedema,4,1.25,0.46,3.39,1.25,0.19,False
+METHOTREXATE,Thrombocytopenia,581,0.49,0.46,0.54,0.5,294.64,False
+METHOTREXATE,Protein total increased,26,0.66,0.45,0.97,0.66,4.53,False
+METHOTREXATE,Cytomegalovirus chorioretinitis,9,0.87,0.45,1.68,0.87,0.18,False
+METHOTREXATE,Wrist deformity,11,0.82,0.45,1.49,0.82,0.43,False
+METHOTREXATE,Hospitalisation,388,0.49,0.45,0.55,0.49,198.33,False
+METHOTREXATE,Growth retardation,6,1.01,0.45,2.27,1.01,0.0,False
+METHOTREXATE,Uveitis,61,0.57,0.44,0.73,0.57,19.66,False
+METHOTREXATE,Therapeutic product effect increased,10,0.83,0.44,1.55,0.83,0.36,False
+METHOTREXATE,Nephropathy toxic,30,0.63,0.44,0.91,0.63,6.31,False
+METHOTREXATE,Hepatobiliary disease,14,0.76,0.44,1.28,0.76,1.09,False
+METHOTREXATE,Paradoxical drug reaction,16,0.73,0.44,1.19,0.73,1.62,False
+METHOTREXATE,Hypersensitivity pneumonitis,7,0.92,0.43,1.95,0.92,0.05,False
+METHOTREXATE,Product label issue,21,0.66,0.43,1.02,0.66,3.49,False
+METHOTREXATE,Gastrointestinal toxicity,34,0.61,0.43,0.85,0.61,8.45,False
+METHOTREXATE,Basal cell carcinoma,47,0.57,0.43,0.76,0.57,14.86,False
+METHOTREXATE,Blood fibrinogen decreased,8,0.85,0.42,1.71,0.85,0.21,False
+METHOTREXATE,Secretion discharge,165,0.49,0.42,0.57,0.49,87.87,False
+METHOTREXATE,Myelopathy,8,0.84,0.42,1.7,0.84,0.23,False
+METHOTREXATE,Hepatic fibrosis,12,0.72,0.41,1.27,0.72,1.3,False
+METHOTREXATE,Chorioretinitis,4,1.11,0.41,3.01,1.11,0.04,False
+METHOTREXATE,Eye inflammation,27,0.6,0.41,0.87,0.6,7.25,False
+METHOTREXATE,Graft versus host disease in gastrointestinal tract,9,0.79,0.41,1.52,0.79,0.51,False
+METHOTREXATE,Ligamentum flavum hypertrophy,5,0.99,0.41,2.42,0.99,0.0,False
+METHOTREXATE,Atlantoaxial instability,3,1.31,0.41,4.16,1.31,0.21,False
+METHOTREXATE,Haemorrhage intracranial,12,0.71,0.4,1.27,0.71,1.34,False
+METHOTREXATE,Hypermetabolism,7,0.85,0.4,1.81,0.85,0.17,False
+METHOTREXATE,Calculus urinary,5,0.98,0.4,2.38,0.98,0.0,False
+METHOTREXATE,Mucosal inflammation,81,0.48,0.39,0.6,0.48,44.11,False
+METHOTREXATE,Bone disorder,28,0.56,0.39,0.82,0.56,9.31,False
+METHOTREXATE,Hepatitis E,3,1.25,0.39,3.95,1.25,0.14,False
+METHOTREXATE,Animal bite,10,0.73,0.39,1.36,0.73,0.99,False
+METHOTREXATE,Fall,1034,0.42,0.39,0.45,0.42,821.08,False
+METHOTREXATE,Skin hypertrophy,8,0.79,0.39,1.6,0.79,0.42,False
+METHOTREXATE,Vitreous opacities,3,1.23,0.39,3.89,1.23,0.12,False
+METHOTREXATE,Post transplant lymphoproliferative disorder,18,0.61,0.38,0.97,0.61,4.47,False
+METHOTREXATE,Prostate cancer,38,0.52,0.38,0.72,0.52,16.56,False
+METHOTREXATE,Immunosuppression,28,0.55,0.38,0.8,0.55,10.27,False
+METHOTREXATE,Lymphocytosis,5,0.92,0.38,2.23,0.92,0.04,False
+METHOTREXATE,Vertebral lateral recess stenosis,5,0.92,0.38,2.24,0.92,0.03,False
+METHOTREXATE,Rash maculo-papular,55,0.49,0.38,0.64,0.49,28.71,False
+METHOTREXATE,Pneumonia legionella,4,1.04,0.38,2.82,1.04,0.01,False
+METHOTREXATE,Febrile neutropenia,175,0.43,0.37,0.5,0.43,130.74,False
+METHOTREXATE,Lichenoid keratosis,8,0.74,0.37,1.49,0.74,0.71,False
+METHOTREXATE,Cardiac failure,165,0.43,0.37,0.5,0.43,122.4,False
+METHOTREXATE,Brain herniation,6,0.82,0.37,1.85,0.82,0.22,False
+METHOTREXATE,Cardiac fibrillation,3,1.17,0.37,3.71,1.17,0.07,False
+METHOTREXATE,Superinfection,3,1.17,0.37,3.71,1.17,0.07,False
+METHOTREXATE,Abdominal mass,14,0.62,0.37,1.06,0.62,3.12,False
+METHOTREXATE,C3 glomerulopathy,6,0.81,0.36,1.81,0.81,0.27,False
+METHOTREXATE,Pneumonia fungal,21,0.56,0.36,0.86,0.56,7.16,False
+METHOTREXATE,Episcleritis,4,0.98,0.36,2.65,0.98,0.0,False
+METHOTREXATE,Product dispensing issue,15,0.59,0.36,0.99,0.59,4.1,False
+METHOTREXATE,Tuberculosis,15,0.6,0.36,1.01,0.6,3.81,False
+METHOTREXATE,Arthritis bacterial,7,0.76,0.36,1.6,0.76,0.54,False
+METHOTREXATE,Accidental overdose,146,0.43,0.36,0.51,0.43,109.06,False
+METHOTREXATE,Mouth ulceration,59,0.46,0.36,0.6,0.46,36.73,False
+METHOTREXATE,Hemiplegia,63,0.44,0.35,0.57,0.44,43.19,False
+METHOTREXATE,Rebound effect,26,0.51,0.35,0.75,0.51,12.14,False
+METHOTREXATE,Purpura,21,0.55,0.35,0.84,0.55,7.79,False
+METHOTREXATE,Dry age-related macular degeneration,4,0.95,0.35,2.57,0.95,0.01,False
+METHOTREXATE,Penile ulceration,4,0.94,0.35,2.55,0.94,0.01,False
+METHOTREXATE,Pancreatic disorder,10,0.66,0.35,1.23,0.66,1.73,False
+METHOTREXATE,Ventricular dysfunction,14,0.6,0.35,1.02,0.6,3.64,False
+METHOTREXATE,Nephropathy,20,0.54,0.35,0.84,0.54,7.63,False
+METHOTREXATE,Ulna fracture,3,1.12,0.35,3.53,1.12,0.04,False
+METHOTREXATE,Drug eruption,46,0.47,0.35,0.63,0.47,27.25,False
+METHOTREXATE,Agranulocytosis,36,0.49,0.35,0.68,0.49,18.75,False
+METHOTREXATE,Back pain,511,0.37,0.34,0.41,0.37,536.12,False
+METHOTREXATE,Muscle contracture,5,0.83,0.34,2.02,0.83,0.16,False
+METHOTREXATE,Ankylosing spondylitis,25,0.5,0.34,0.74,0.5,12.47,False
+METHOTREXATE,Febrile bone marrow aplasia,11,0.63,0.34,1.14,0.63,2.41,False
+METHOTREXATE,Hepatomegaly,14,0.58,0.34,0.99,0.58,4.05,False
+METHOTREXATE,Visual field defect,10,0.64,0.34,1.19,0.64,2.01,False
+METHOTREXATE,Osteonecrosis,23,0.51,0.34,0.78,0.51,10.41,False
+METHOTREXATE,Optic neuropathy,6,0.77,0.34,1.73,0.77,0.4,False
+METHOTREXATE,Meningitis tuberculous,3,1.07,0.34,3.38,1.07,0.01,False
+METHOTREXATE,Eosinophil count decreased,22,0.52,0.34,0.79,0.52,9.58,False
+METHOTREXATE,Subcutaneous abscess,10,0.64,0.34,1.2,0.64,1.98,False
+METHOTREXATE,Osteoarthropathy,5,0.83,0.34,2.01,0.83,0.17,False
+METHOTREXATE,Noninfective gingivitis,5,0.83,0.34,2.02,0.83,0.16,False
+METHOTREXATE,Myopathy toxic,4,0.89,0.33,2.39,0.89,0.06,False
+METHOTREXATE,Blood pressure systolic abnormal,48,0.43,0.33,0.58,0.43,34.89,False
+METHOTREXATE,Micturition disorder,7,0.69,0.33,1.46,0.69,0.94,False
+METHOTREXATE,Deep vein thrombosis,127,0.39,0.33,0.47,0.39,119.43,False
+METHOTREXATE,Bronchiolitis obliterans syndrome,3,1.05,0.33,3.3,1.05,0.01,False
+METHOTREXATE,Renal colic,9,0.64,0.33,1.23,0.64,1.82,False
+METHOTREXATE,Vein collapse,6,0.73,0.33,1.65,0.73,0.56,False
+METHOTREXATE,Suicidal ideation,119,0.4,0.33,0.48,0.4,107.63,False
+METHOTREXATE,Carotid artery thrombosis,53,0.43,0.33,0.56,0.43,39.49,False
+METHOTREXATE,Endothelial dysfunction,3,1.01,0.32,3.2,1.01,0.0,False
+METHOTREXATE,Vasoconstriction,4,0.86,0.32,2.33,0.86,0.08,False
+METHOTREXATE,Retinal ischaemia,3,1.01,0.32,3.2,1.01,0.0,False
+METHOTREXATE,Anaphylactic reaction,90,0.39,0.32,0.49,0.4,82.43,False
+METHOTREXATE,Herpes simplex hepatitis,4,0.87,0.32,2.35,0.87,0.08,False
+METHOTREXATE,Gastric ulcer haemorrhage,6,0.72,0.32,1.61,0.72,0.66,False
+METHOTREXATE,Cystitis viral,3,1.01,0.32,3.2,1.01,0.0,False
+METHOTREXATE,Neurologic neglect syndrome,54,0.42,0.32,0.55,0.42,43.31,False
+METHOTREXATE,Hypotension,413,0.36,0.32,0.39,0.36,471.62,False
+METHOTREXATE,Normocytic anaemia,9,0.61,0.32,1.19,0.61,2.13,False
+METHOTREXATE,Arthritis infective,11,0.58,0.32,1.05,0.58,3.31,False
+METHOTREXATE,Maculopathy,4,0.86,0.32,2.33,0.86,0.08,False
+METHOTREXATE,Erythema,311,0.36,0.32,0.4,0.36,355.78,False
+METHOTREXATE,Myelodysplastic syndrome,25,0.46,0.31,0.69,0.46,15.26,False
+METHOTREXATE,Dermatomyositis,6,0.69,0.31,1.54,0.69,0.85,False
+METHOTREXATE,Product communication issue,15,0.52,0.31,0.87,0.52,6.43,False
+METHOTREXATE,Aspartate aminotransferase abnormal,26,0.46,0.31,0.68,0.46,16.07,False
+METHOTREXATE,Movement disorder,57,0.4,0.31,0.52,0.4,50.77,False
+METHOTREXATE,Diffuse alveolar damage,3,0.98,0.31,3.1,0.98,0.0,False
+METHOTREXATE,Fungaemia,6,0.71,0.31,1.58,0.71,0.72,False
+METHOTREXATE,Blood pressure diastolic abnormal,48,0.41,0.31,0.54,0.41,40.69,False
+METHOTREXATE,Adjustment disorder,51,0.41,0.31,0.54,0.41,42.22,False
+METHOTREXATE,Extremity necrosis,4,0.83,0.31,2.24,0.83,0.14,False
+METHOTREXATE,Fibula fracture,7,0.66,0.31,1.39,0.66,1.2,False
+METHOTREXATE,Congestive hepatopathy,5,0.73,0.3,1.78,0.73,0.48,False
+METHOTREXATE,Sinus pain,11,0.54,0.3,0.98,0.54,4.28,False
+METHOTREXATE,Nasal disorder,8,0.61,0.3,1.23,0.61,1.94,False
+METHOTREXATE,Feeling jittery,33,0.43,0.3,0.6,0.43,25.16,False
+METHOTREXATE,Wound secretion,7,0.64,0.3,1.34,0.64,1.43,False
+METHOTREXATE,Gangrene,54,0.4,0.3,0.52,0.4,48.51,False
+METHOTREXATE,Acute lymphocytic leukaemia,4,0.8,0.3,2.17,0.8,0.18,False
+METHOTREXATE,Stress fracture,8,0.6,0.3,1.21,0.6,2.07,False
+METHOTREXATE,Osteopenia,27,0.43,0.3,0.63,0.43,19.98,False
+METHOTREXATE,Death,535,0.32,0.3,0.35,0.32,753.74,False
+METHOTREXATE,Ulcer,123,0.36,0.3,0.43,0.36,141.59,False
+METHOTREXATE,Spinal instability,3,0.95,0.3,2.98,0.95,0.01,False
+METHOTREXATE,Deafness,40,0.4,0.29,0.55,0.4,35.4,False
+METHOTREXATE,Arterial occlusive disease,55,0.38,0.29,0.5,0.38,54.75,False
+METHOTREXATE,Heart rate increased,226,0.33,0.29,0.38,0.33,305.87,False
+METHOTREXATE,Granulomatosis with polyangiitis,4,0.78,0.29,2.11,0.78,0.24,False
+METHOTREXATE,Anal fistula,20,0.45,0.29,0.69,0.45,13.58,False
+METHOTREXATE,Cytomegalovirus infection reactivation,28,0.41,0.29,0.6,0.41,22.83,False
+METHOTREXATE,Haemoglobin increased,37,0.4,0.29,0.55,0.4,33.75,False
+METHOTREXATE,Disability assessment scale score increased,6,0.65,0.29,1.45,0.65,1.13,False
+METHOTREXATE,Anorectal disorder,3,0.92,0.29,2.9,0.92,0.02,False
+METHOTREXATE,Pancreaticoduodenectomy,3,0.9,0.29,2.84,0.9,0.03,False
+METHOTREXATE,Faecal calprotectin increased,15,0.49,0.29,0.81,0.49,8.03,False
+METHOTREXATE,Immune-mediated myositis,11,0.5,0.28,0.91,0.5,5.34,False
+METHOTREXATE,Pneumonia pneumococcal,4,0.75,0.28,2.03,0.75,0.31,False
+METHOTREXATE,Invasive ductal breast carcinoma,5,0.68,0.28,1.65,0.68,0.73,False
+METHOTREXATE,Affect lability,57,0.36,0.28,0.47,0.36,63.87,False
+METHOTREXATE,Scabies,5,0.69,0.28,1.66,0.69,0.7,False
+METHOTREXATE,Endocarditis,9,0.54,0.28,1.04,0.54,3.46,False
+METHOTREXATE,Toe operation,5,0.68,0.28,1.65,0.68,0.73,False
+METHOTREXATE,Disease progression,112,0.33,0.28,0.4,0.33,148.6,False
+METHOTREXATE,Osteomalacia,3,0.88,0.28,2.77,0.88,0.05,False
+METHOTREXATE,Gluten sensitivity,3,0.83,0.27,2.62,0.83,0.1,False
+METHOTREXATE,Oesophageal carcinoma,5,0.66,0.27,1.6,0.66,0.85,False
+METHOTREXATE,Neoplasm malignant,55,0.36,0.27,0.46,0.36,63.74,False
+METHOTREXATE,Immune reconstitution inflammatory syndrome,8,0.54,0.27,1.09,0.54,3.02,False
+METHOTREXATE,Disease recurrence,93,0.33,0.27,0.41,0.33,122.16,False
+METHOTREXATE,Sjogren's syndrome,14,0.46,0.27,0.78,0.46,8.84,False
+METHOTREXATE,Bone loss,10,0.5,0.27,0.94,0.5,4.88,False
+METHOTREXATE,Bell's palsy,9,0.52,0.27,1.0,0.52,3.93,False
+METHOTREXATE,Poisoning,17,0.43,0.27,0.69,0.43,12.66,False
+METHOTREXATE,Unmasking of previously unidentified disease,3,0.85,0.27,2.67,0.85,0.08,False
+METHOTREXATE,Feeling abnormal,227,0.3,0.26,0.34,0.3,369.67,False
+METHOTREXATE,Body height decreased,16,0.42,0.26,0.69,0.42,12.57,False
+METHOTREXATE,Cataract,116,0.31,0.26,0.37,0.31,178.92,False
+METHOTREXATE,Personality disorder,54,0.34,0.26,0.45,0.34,67.44,False
+METHOTREXATE,Angina pectoris,72,0.32,0.26,0.41,0.32,101.09,False
+METHOTREXATE,Subileus,10,0.48,0.26,0.9,0.48,5.5,False
+METHOTREXATE,Hodgkin's disease,3,0.83,0.26,2.6,0.83,0.11,False
+METHOTREXATE,C-reactive protein decreased,5,0.63,0.26,1.52,0.63,1.08,False
+METHOTREXATE,Retinal vasculitis,3,0.82,0.26,2.58,0.82,0.12,False
+METHOTREXATE,Tendon injury,4,0.71,0.26,1.91,0.71,0.47,False
+METHOTREXATE,Alanine aminotransferase increased,93,0.32,0.26,0.39,0.32,131.48,False
+METHOTREXATE,Hepatitis acute,8,0.53,0.26,1.07,0.53,3.26,False
+METHOTREXATE,Skin reaction,23,0.39,0.26,0.59,0.39,21.68,False
+METHOTREXATE,Hemiparesis,63,0.34,0.26,0.43,0.34,81.56,False
+METHOTREXATE,Pneumocystis jirovecii pneumonia,23,0.39,0.26,0.58,0.39,22.32,False
+METHOTREXATE,Skin haemorrhage,63,0.33,0.26,0.43,0.33,83.5,False
+METHOTREXATE,Blood pressure systolic increased,98,0.32,0.26,0.39,0.32,139.61,False
+METHOTREXATE,Cytomegalovirus test positive,5,0.61,0.25,1.47,0.61,1.25,False
+METHOTREXATE,Pituitary tumour,3,0.77,0.25,2.43,0.77,0.19,False
+METHOTREXATE,Motor dysfunction,59,0.32,0.25,0.42,0.32,83.82,False
+METHOTREXATE,Sensory loss,56,0.33,0.25,0.42,0.33,77.64,False
+METHOTREXATE,Meningitis aseptic,8,0.5,0.25,1.0,0.5,4.06,False
+METHOTREXATE,Secondary immunodeficiency,5,0.6,0.25,1.45,0.6,1.32,False
+METHOTREXATE,Chronic inflammatory demyelinating polyradiculoneuropathy,11,0.45,0.25,0.82,0.45,7.13,False
+METHOTREXATE,Retinal exudates,3,0.77,0.25,2.43,0.77,0.19,False
+METHOTREXATE,Renal disorder,53,0.32,0.25,0.42,0.32,74.12,False
+METHOTREXATE,Overweight,16,0.41,0.25,0.67,0.41,13.7,False
+METHOTREXATE,Poor venous access,60,0.32,0.25,0.41,0.32,87.69,False
+METHOTREXATE,Varicella zoster virus infection,5,0.61,0.25,1.48,0.61,1.23,False
+METHOTREXATE,Tinea infection,4,0.67,0.25,1.81,0.67,0.62,False
+METHOTREXATE,Therapy partial responder,51,0.32,0.25,0.43,0.32,71.31,False
+METHOTREXATE,Glossitis,8,0.5,0.25,1.01,0.5,3.83,False
+METHOTREXATE,Motion sickness,4,0.68,0.25,1.84,0.68,0.58,False
+METHOTREXATE,Cerebrospinal fluid leakage,4,0.67,0.25,1.79,0.67,0.66,False
+METHOTREXATE,Hyperammonaemic encephalopathy,4,0.64,0.24,1.73,0.64,0.78,False
+METHOTREXATE,Skin papilloma,11,0.43,0.24,0.78,0.43,8.25,False
+METHOTREXATE,Still's disease,3,0.76,0.24,2.4,0.76,0.22,False
+METHOTREXATE,Anal abscess,17,0.39,0.24,0.63,0.39,15.7,False
+METHOTREXATE,Influenza like illness,122,0.28,0.24,0.34,0.28,218.13,False
+METHOTREXATE,Ophthalmoplegia,6,0.54,0.24,1.22,0.54,2.26,False
+METHOTREXATE,Systolic dysfunction,3,0.75,0.24,2.36,0.75,0.24,False
+METHOTREXATE,Thyroxine increased,3,0.77,0.24,2.42,0.77,0.2,False
+METHOTREXATE,Blood pressure increased,298,0.27,0.24,0.3,0.27,578.87,False
+METHOTREXATE,Hypofibrinogenaemia,3,0.76,0.24,2.4,0.76,0.22,False
+METHOTREXATE,Flank pain,39,0.33,0.24,0.45,0.33,52.99,False
+METHOTREXATE,Tumour lysis syndrome,21,0.36,0.24,0.56,0.36,23.0,False
+METHOTREXATE,Tooth deposit,3,0.75,0.24,2.36,0.75,0.24,False
+METHOTREXATE,Viral infection,69,0.3,0.24,0.39,0.3,108.97,False
+METHOTREXATE,Perforation,6,0.54,0.24,1.2,0.54,2.35,False
+METHOTREXATE,Clostridium difficile infection,38,0.32,0.24,0.45,0.32,53.14,False
+METHOTREXATE,Oral herpes,34,0.34,0.24,0.47,0.34,43.74,False
+METHOTREXATE,Cytomegalovirus infection,29,0.34,0.24,0.49,0.34,36.25,False
+METHOTREXATE,Impaired work ability,70,0.3,0.24,0.38,0.3,111.21,False
+METHOTREXATE,Musculoskeletal disorder,18,0.39,0.24,0.61,0.39,17.42,False
+METHOTREXATE,Cytopenia,29,0.34,0.24,0.49,0.34,36.76,False
+METHOTREXATE,Alveolar proteinosis,3,0.71,0.23,2.22,0.71,0.35,False
+METHOTREXATE,Haemolytic anaemia,9,0.45,0.23,0.87,0.45,6.02,False
+METHOTREXATE,Infected skin ulcer,5,0.54,0.23,1.32,0.54,1.87,False
+METHOTREXATE,Ophthalmic herpes zoster,5,0.55,0.23,1.32,0.55,1.85,False
+METHOTREXATE,Osteoporotic fracture,6,0.52,0.23,1.15,0.52,2.7,False
+METHOTREXATE,Coordination abnormal,52,0.3,0.23,0.39,0.3,84.04,False
+METHOTREXATE,Systemic mycosis,7,0.48,0.23,1.02,0.48,3.83,False
+METHOTREXATE,Eosinophil count increased,23,0.34,0.23,0.52,0.34,28.67,False
+METHOTREXATE,Hypervolaemia,24,0.34,0.23,0.51,0.34,30.03,False
+METHOTREXATE,Hepatic cytolysis,30,0.33,0.23,0.47,0.33,40.93,False
+METHOTREXATE,Graft versus host disease,12,0.4,0.23,0.71,0.4,10.54,False
+METHOTREXATE,Incisional hernia,4,0.62,0.23,1.67,0.62,0.9,False
+METHOTREXATE,Erythema nodosum,14,0.39,0.23,0.67,0.39,12.96,False
+METHOTREXATE,Vulvovaginal discomfort,4,0.62,0.23,1.67,0.62,0.9,False
+METHOTREXATE,Herpes simplex,14,0.39,0.23,0.66,0.39,13.14,False
+METHOTREXATE,Abscess,31,0.32,0.23,0.46,0.32,43.79,False
+METHOTREXATE,Gastric bypass,3,0.73,0.23,2.29,0.73,0.3,False
+METHOTREXATE,Aphasia,66,0.3,0.23,0.38,0.3,108.03,False
+METHOTREXATE,Hypermagnesaemia,3,0.69,0.22,2.16,0.69,0.42,False
+METHOTREXATE,Volvulus,6,0.49,0.22,1.09,0.49,3.17,False
+METHOTREXATE,Blood immunoglobulin G increased,5,0.54,0.22,1.3,0.54,1.98,False
+METHOTREXATE,Gastric ulcer,17,0.36,0.22,0.58,0.36,19.03,False
+METHOTREXATE,Myelosuppression,89,0.27,0.22,0.33,0.27,175.94,False
+METHOTREXATE,Photophobia,41,0.3,0.22,0.4,0.3,68.1,False
+METHOTREXATE,Osteochondrosis,3,0.7,0.22,2.21,0.7,0.37,False
+METHOTREXATE,Large intestine polyp,13,0.38,0.22,0.65,0.38,13.21,False
+METHOTREXATE,Blood thyroid stimulating hormone decreased,6,0.48,0.22,1.08,0.48,3.29,False
+METHOTREXATE,Interstitial lung disease,59,0.29,0.22,0.37,0.29,102.0,False
+METHOTREXATE,B-cell type acute leukaemia,4,0.6,0.22,1.62,0.6,1.03,False
+METHOTREXATE,Aphthous ulcer,37,0.3,0.22,0.41,0.3,60.42,False
+METHOTREXATE,Left ventricular failure,6,0.49,0.22,1.1,0.49,3.08,False
+METHOTREXATE,Second primary malignancy,12,0.38,0.22,0.68,0.38,11.83,False
+METHOTREXATE,Ligament rupture,6,0.49,0.22,1.11,0.49,3.06,False
+METHOTREXATE,Anal fissure,43,0.3,0.22,0.41,0.3,68.83,False
+METHOTREXATE,Lip blister,5,0.52,0.22,1.26,0.52,2.17,False
+METHOTREXATE,Sneezing,63,0.28,0.22,0.36,0.28,113.13,False
+METHOTREXATE,Melanocytic naevus,8,0.44,0.22,0.89,0.44,5.52,False
+METHOTREXATE,Progressive multifocal leukoencephalopathy,15,0.36,0.22,0.6,0.36,16.73,False
+METHOTREXATE,Renal cyst,17,0.35,0.22,0.57,0.35,20.12,False
+METHOTREXATE,Bladder dysfunction,3,0.7,0.22,2.19,0.7,0.38,False
+METHOTREXATE,Body temperature decreased,36,0.31,0.22,0.43,0.31,55.83,False
+METHOTREXATE,Alopecia areata,3,0.65,0.21,2.04,0.65,0.55,False
+METHOTREXATE,Staphylococcal skin infection,4,0.56,0.21,1.51,0.56,1.35,False
+METHOTREXATE,Dysstasia,34,0.29,0.21,0.41,0.29,57.39,False
+METHOTREXATE,Blood triglycerides increased,15,0.35,0.21,0.59,0.35,17.63,False
+METHOTREXATE,Chronic graft versus host disease in skin,4,0.58,0.21,1.55,0.58,1.23,False
+METHOTREXATE,Lymphadenitis,6,0.47,0.21,1.06,0.47,3.5,False
+METHOTREXATE,Conjunctivitis,37,0.3,0.21,0.41,0.3,61.19,False
+METHOTREXATE,Intestinal resection,7,0.45,0.21,0.95,0.45,4.66,False
+METHOTREXATE,Diarrhoea haemorrhagic,10,0.4,0.21,0.75,0.4,8.89,False
+METHOTREXATE,Device loosening,4,0.58,0.21,1.55,0.58,1.23,False
+METHOTREXATE,Intracranial pressure increased,6,0.47,0.21,1.05,0.47,3.54,False
+METHOTREXATE,Dyslipidaemia,23,0.31,0.21,0.47,0.31,34.41,False
+METHOTREXATE,Precancerous cells present,3,0.67,0.21,2.11,0.67,0.46,False
+METHOTREXATE,Health assessment questionnaire score increased,11,0.38,0.21,0.68,0.38,11.27,False
+METHOTREXATE,Lung adenocarcinoma,6,0.46,0.21,1.03,0.46,3.76,False
+METHOTREXATE,Cerebral haematoma,4,0.54,0.2,1.44,0.54,1.56,False
+METHOTREXATE,Bronchopulmonary aspergillosis,21,0.31,0.2,0.48,0.31,31.49,False
+METHOTREXATE,Chronic sinusitis,23,0.31,0.2,0.46,0.31,35.45,False
+METHOTREXATE,Renal tubular injury,6,0.44,0.2,0.98,0.44,4.26,False
+METHOTREXATE,Nervous system disorder,23,0.31,0.2,0.46,0.31,35.59,False
+METHOTREXATE,Ocular hypertension,4,0.54,0.2,1.46,0.54,1.5,False
+METHOTREXATE,Discharge,6,0.46,0.2,1.02,0.46,3.85,False
+METHOTREXATE,COVID-19,268,0.22,0.2,0.25,0.22,716.9,False
+METHOTREXATE,Cystitis haemorrhagic,7,0.41,0.2,0.87,0.41,5.72,False
+METHOTREXATE,Cardiac aneurysm,3,0.61,0.2,1.93,0.61,0.71,False
+METHOTREXATE,Mucormycosis,4,0.55,0.2,1.47,0.55,1.46,False
+METHOTREXATE,Salmonellosis,5,0.49,0.2,1.19,0.49,2.58,False
+METHOTREXATE,Polymyositis,3,0.64,0.2,2.0,0.64,0.6,False
+METHOTREXATE,Aspiration,99,0.24,0.2,0.3,0.24,232.74,False
+METHOTREXATE,Hepatitis B virus test positive,4,0.53,0.2,1.43,0.53,1.61,False
+METHOTREXATE,Sinus congestion,57,0.26,0.2,0.34,0.26,120.21,False
+METHOTREXATE,Dysarthria,61,0.26,0.2,0.33,0.26,131.06,False
+METHOTREXATE,Skin disorder,38,0.26,0.19,0.36,0.26,78.41,False
+METHOTREXATE,Kaposi's sarcoma,7,0.39,0.19,0.83,0.39,6.51,False
+METHOTREXATE,Thrombotic microangiopathy,20,0.3,0.19,0.47,0.3,32.08,False
+METHOTREXATE,Prostatic disorder,4,0.51,0.19,1.37,0.51,1.85,False
+METHOTREXATE,Acute febrile neutrophilic dermatosis,3,0.59,0.19,1.85,0.59,0.84,False
+METHOTREXATE,Aspartate aminotransferase increased,78,0.23,0.19,0.29,0.23,197.15,False
+METHOTREXATE,Oesophageal stenosis,4,0.5,0.19,1.34,0.5,1.98,False
+METHOTREXATE,Rhinorrhoea,116,0.23,0.19,0.27,0.23,300.75,False
+METHOTREXATE,Aplasia pure red cell,3,0.59,0.19,1.86,0.59,0.82,False
+METHOTREXATE,Blood pressure diastolic decreased,43,0.26,0.19,0.34,0.26,92.73,False
+METHOTREXATE,Bacteraemia,21,0.29,0.19,0.45,0.29,35.55,False
+METHOTREXATE,Papule,10,0.35,0.19,0.65,0.35,12.21,False
+METHOTREXATE,Infection susceptibility increased,4,0.51,0.19,1.38,0.51,1.83,False
+METHOTREXATE,Squamous cell carcinoma,12,0.33,0.19,0.59,0.33,15.74,False
+METHOTREXATE,Labyrinthitis,6,0.43,0.19,0.96,0.43,4.51,False
+METHOTREXATE,Eating disorder,60,0.25,0.19,0.32,0.25,132.98,False
+METHOTREXATE,Disseminated tuberculosis,3,0.61,0.19,1.9,0.61,0.75,False
+METHOTREXATE,Malignant melanoma,13,0.32,0.19,0.55,0.32,18.54,False
+METHOTREXATE,Encephalitis autoimmune,6,0.42,0.19,0.95,0.42,4.63,False
+METHOTREXATE,Drug effective for unapproved indication,20,0.29,0.19,0.45,0.29,34.33,False
+METHOTREXATE,Diffuse large B-cell lymphoma stage IV,4,0.52,0.19,1.39,0.52,1.78,False
+METHOTREXATE,Protein-losing gastroenteropathy,3,0.6,0.19,1.88,0.6,0.79,False
+METHOTREXATE,Polyp,11,0.35,0.19,0.63,0.35,13.36,False
+METHOTREXATE,Spinal pain,17,0.3,0.19,0.49,0.3,26.84,False
+METHOTREXATE,Menopause,7,0.41,0.19,0.86,0.41,5.9,False
+METHOTREXATE,Iritis,4,0.51,0.19,1.37,0.51,1.87,False
+METHOTREXATE,Tonsillitis,8,0.38,0.19,0.75,0.38,8.22,False
+METHOTREXATE,Steroid dependence,46,0.24,0.18,0.32,0.24,109.09,False
+METHOTREXATE,Hyperbilirubinaemia,14,0.31,0.18,0.52,0.31,21.38,False
+METHOTREXATE,Diabetes mellitus,108,0.22,0.18,0.27,0.22,290.5,False
+METHOTREXATE,Vulvovaginal mycotic infection,7,0.37,0.18,0.78,0.37,7.41,False
+METHOTREXATE,Lymphopenia,25,0.27,0.18,0.4,0.27,49.15,False
+METHOTREXATE,Pulmonary oedema,36,0.24,0.18,0.34,0.24,83.35,False
+METHOTREXATE,Abscess limb,7,0.38,0.18,0.81,0.38,6.87,False
+METHOTREXATE,Leukoencephalopathy,3,0.58,0.18,1.81,0.58,0.9,False
+METHOTREXATE,Sinus disorder,63,0.23,0.18,0.3,0.23,157.51,False
+METHOTREXATE,Soft tissue infection,4,0.49,0.18,1.32,0.49,2.05,False
+METHOTREXATE,Parainfluenzae virus infection,4,0.49,0.18,1.31,0.49,2.1,False
+METHOTREXATE,Behcet's syndrome,3,0.56,0.18,1.76,0.56,1.01,False
+METHOTREXATE,Cachexia,6,0.4,0.18,0.9,0.4,5.28,False
+METHOTREXATE,Self-medication,5,0.44,0.18,1.06,0.44,3.55,False
+METHOTREXATE,Respiratory tract infection,74,0.22,0.18,0.28,0.22,202.39,False
+METHOTREXATE,Cystitis,74,0.23,0.18,0.29,0.23,188.01,False
+METHOTREXATE,Ileal stenosis,4,0.49,0.18,1.3,0.49,2.14,False
+METHOTREXATE,Device related sepsis,6,0.4,0.18,0.89,0.4,5.41,False
+METHOTREXATE,Acute kidney injury,135,0.22,0.18,0.26,0.22,382.0,False
+METHOTREXATE,Injury associated with device,11,0.32,0.18,0.58,0.32,15.95,False
+METHOTREXATE,Quadriparesis,3,0.55,0.18,1.73,0.55,1.07,False
+METHOTREXATE,Hand fracture,9,0.32,0.17,0.62,0.32,12.87,False
+METHOTREXATE,COVID-19 pneumonia,18,0.26,0.17,0.42,0.26,36.61,False
+METHOTREXATE,Device operational issue,6,0.38,0.17,0.84,0.38,6.11,False
+METHOTREXATE,Drug resistance,20,0.27,0.17,0.42,0.27,39.51,False
+METHOTREXATE,Optic atrophy,3,0.54,0.17,1.69,0.54,1.15,False
+METHOTREXATE,Ventricular septal defect,5,0.42,0.17,1.02,0.42,3.89,False
+METHOTREXATE,Listless,12,0.3,0.17,0.53,0.3,19.34,False
+METHOTREXATE,Noninfective encephalitis,3,0.54,0.17,1.69,0.54,1.15,False
+METHOTREXATE,Metastases to meninges,4,0.46,0.17,1.22,0.46,2.57,False
+METHOTREXATE,Tongue blistering,3,0.52,0.17,1.63,0.52,1.3,False
+METHOTREXATE,Encephalopathy,24,0.25,0.17,0.37,0.25,54.55,False
+METHOTREXATE,Cholestasis,14,0.28,0.17,0.48,0.28,25.4,False
+METHOTREXATE,Papilloedema,4,0.45,0.17,1.2,0.45,2.71,False
+METHOTREXATE,Blood pressure fluctuation,60,0.22,0.17,0.28,0.22,163.79,False
+METHOTREXATE,Catarrh,41,0.23,0.17,0.31,0.23,107.5,False
+METHOTREXATE,Heart rate decreased,60,0.21,0.17,0.27,0.21,173.56,False
+METHOTREXATE,Cerebrovascular accident,120,0.21,0.17,0.25,0.21,357.11,False
+METHOTREXATE,Parkinson's disease,22,0.26,0.17,0.4,0.26,45.97,False
+METHOTREXATE,Cholangitis sclerosing,4,0.46,0.17,1.23,0.46,2.5,False
+METHOTREXATE,Hypertriglyceridaemia,10,0.32,0.17,0.6,0.32,14.09,False
+METHOTREXATE,Patella fracture,3,0.53,0.17,1.66,0.53,1.22,False
+METHOTREXATE,Klebsiella sepsis,3,0.53,0.17,1.67,0.53,1.19,False
+METHOTREXATE,Viraemia,3,0.53,0.17,1.67,0.53,1.19,False
+METHOTREXATE,Alanine aminotransferase decreased,3,0.53,0.17,1.66,0.53,1.22,False
+METHOTREXATE,Burns second degree,41,0.23,0.17,0.31,0.23,107.79,False
+METHOTREXATE,Serositis,3,0.52,0.17,1.64,0.52,1.28,False
+METHOTREXATE,Hiatus hernia,26,0.25,0.17,0.36,0.25,58.81,False
+METHOTREXATE,Cerebral hypoperfusion,4,0.42,0.16,1.12,0.42,3.2,False
+METHOTREXATE,Oesophageal candidiasis,8,0.33,0.16,0.65,0.33,11.1,False
+METHOTREXATE,Herpes zoster,46,0.21,0.16,0.28,0.21,136.63,False
+METHOTREXATE,Intentional dose omission,57,0.21,0.16,0.27,0.21,173.09,False
+METHOTREXATE,Polyomavirus viraemia,3,0.49,0.16,1.54,0.49,1.55,False
+METHOTREXATE,Thyroid hormones decreased,3,0.5,0.16,1.57,0.5,1.46,False
+METHOTREXATE,Cutaneous vasculitis,7,0.33,0.16,0.69,0.33,9.52,False
+METHOTREXATE,Rheumatic disorder,4,0.44,0.16,1.17,0.44,2.88,False
+METHOTREXATE,Mycobacterium avium complex infection,7,0.34,0.16,0.71,0.34,9.03,False
+METHOTREXATE,Otitis media,7,0.33,0.16,0.7,0.33,9.17,False
+METHOTREXATE,Toxicity to various agents,134,0.19,0.16,0.23,0.19,446.35,False
+METHOTREXATE,Cardiac ablation,4,0.43,0.16,1.16,0.43,2.96,False
+METHOTREXATE,Transplant failure,4,0.42,0.16,1.12,0.42,3.18,False
+METHOTREXATE,Eye irritation,52,0.21,0.16,0.27,0.21,156.71,False
+METHOTREXATE,Pneumonia staphylococcal,4,0.44,0.16,1.18,0.44,2.83,False
+METHOTREXATE,Nasal ulcer,4,0.44,0.16,1.18,0.44,2.81,False
+METHOTREXATE,Eyelid disorder,4,0.42,0.16,1.13,0.42,3.15,False
+METHOTREXATE,Blood pressure diastolic increased,24,0.24,0.16,0.36,0.24,56.41,False
+METHOTREXATE,Mass,14,0.26,0.16,0.45,0.26,28.57,False
+METHOTREXATE,Loss of therapeutic response,9,0.32,0.16,0.61,0.32,13.14,False
+METHOTREXATE,Gastrointestinal haemorrhage,42,0.21,0.16,0.29,0.21,121.43,False
+METHOTREXATE,Drug level decreased,23,0.24,0.16,0.36,0.24,54.49,False
+METHOTREXATE,Hepatitis cholestatic,8,0.32,0.16,0.64,0.32,11.59,False
+METHOTREXATE,Oral fungal infection,9,0.31,0.16,0.59,0.31,13.88,False
+METHOTREXATE,Hypopnoea,41,0.21,0.16,0.29,0.21,117.26,False
+METHOTREXATE,Ocular hyperaemia,40,0.22,0.16,0.3,0.22,108.74,False
+METHOTREXATE,Nerve compression,16,0.26,0.16,0.43,0.26,32.66,False
+METHOTREXATE,Alcohol poisoning,40,0.22,0.16,0.31,0.22,106.57,False
+METHOTREXATE,Fistula,24,0.23,0.15,0.34,0.23,61.4,False
+METHOTREXATE,Therapeutic response shortened,60,0.2,0.15,0.25,0.2,197.87,False
+METHOTREXATE,Alpha haemolytic streptococcal infection,3,0.46,0.15,1.42,0.46,1.93,False
+METHOTREXATE,Rhinitis,48,0.19,0.15,0.26,0.19,161.46,False
+METHOTREXATE,Abnormal loss of weight,7,0.31,0.15,0.66,0.31,10.5,False
+METHOTREXATE,Enterocolitis,11,0.27,0.15,0.48,0.27,21.98,False
+METHOTREXATE,Tubulointerstitial nephritis,50,0.2,0.15,0.27,0.2,156.65,False
+METHOTREXATE,Renal failure,51,0.2,0.15,0.26,0.2,164.97,False
+METHOTREXATE,Immune effector cell-associated haematotoxicity,3,0.48,0.15,1.5,0.48,1.67,False
+METHOTREXATE,Lipoma,8,0.31,0.15,0.62,0.31,12.16,False
+METHOTREXATE,Red blood cell count decreased,38,0.21,0.15,0.29,0.21,114.34,False
+METHOTREXATE,Oral mucosal eruption,3,0.48,0.15,1.49,0.48,1.71,False
+METHOTREXATE,Subarachnoid haemorrhage,13,0.25,0.15,0.44,0.25,28.59,False
+METHOTREXATE,Shock,15,0.25,0.15,0.41,0.25,33.84,False
+METHOTREXATE,Respiratory failure,41,0.21,0.15,0.28,0.21,123.13,False
+METHOTREXATE,Localised oedema,5,0.36,0.15,0.86,0.36,5.75,False
+METHOTREXATE,Bone lesion,6,0.33,0.15,0.75,0.33,7.91,False
+METHOTREXATE,Joint ankylosis,3,0.45,0.15,1.42,0.45,1.95,False
+METHOTREXATE,Parosmia,44,0.2,0.15,0.27,0.2,140.0,False
+METHOTREXATE,Cerebral haemorrhage,17,0.24,0.15,0.39,0.24,40.5,False
+METHOTREXATE,Nasal polyps,24,0.22,0.15,0.33,0.22,64.41,False
+METHOTREXATE,Scoliosis,7,0.32,0.15,0.67,0.32,10.25,False
+METHOTREXATE,Post procedural infection,12,0.27,0.15,0.48,0.27,23.19,False
+METHOTREXATE,Gingival pain,45,0.19,0.15,0.26,0.19,148.83,False
+METHOTREXATE,Musculoskeletal discomfort,22,0.23,0.15,0.35,0.23,57.41,False
+METHOTREXATE,Suspected COVID-19,7,0.31,0.15,0.65,0.31,10.58,False
+METHOTREXATE,Dermatitis,23,0.22,0.14,0.32,0.22,65.4,False
+METHOTREXATE,Colectomy,5,0.35,0.14,0.84,0.35,6.12,False
+METHOTREXATE,Localised infection,25,0.2,0.14,0.3,0.2,79.24,False
+METHOTREXATE,Post procedural haemorrhage,8,0.28,0.14,0.56,0.28,14.94,False
+METHOTREXATE,Circadian rhythm sleep disorder,5,0.33,0.14,0.8,0.33,6.74,False
+METHOTREXATE,Large intestine infection,4,0.39,0.14,1.04,0.39,3.84,False
+METHOTREXATE,Product dose omission issue,446,0.16,0.14,0.17,0.16,2011.47,False
+METHOTREXATE,General physical condition abnormal,4,0.37,0.14,0.99,0.37,4.23,False
+METHOTREXATE,Toxic epidermal necrolysis,24,0.21,0.14,0.31,0.21,73.14,False
+METHOTREXATE,Limb injury,37,0.19,0.14,0.26,0.19,129.85,False
+METHOTREXATE,Injection site papule,3,0.45,0.14,1.4,0.45,2.02,False
+METHOTREXATE,Skin plaque,13,0.23,0.14,0.4,0.23,32.28,False
+METHOTREXATE,Cold sweat,12,0.24,0.14,0.43,0.24,27.87,False
+METHOTREXATE,Vertigo,78,0.18,0.14,0.22,0.18,301.34,False
+METHOTREXATE,Somnolence,190,0.16,0.14,0.18,0.16,849.23,False
+METHOTREXATE,Dry eye,50,0.18,0.14,0.24,0.18,182.69,False
+METHOTREXATE,Steroid diabetes,5,0.34,0.14,0.81,0.34,6.44,False
+METHOTREXATE,Dacryostenosis acquired,4,0.38,0.14,1.03,0.38,3.92,False
+METHOTREXATE,Thermal burn,8,0.29,0.14,0.58,0.29,14.04,False
+METHOTREXATE,Rash pustular,4,0.37,0.14,1.0,0.37,4.2,False
+METHOTREXATE,Rhinalgia,7,0.3,0.14,0.63,0.3,11.21,False
+METHOTREXATE,Drug level below therapeutic,19,0.22,0.14,0.34,0.22,52.82,False
+METHOTREXATE,Lacrimation increased,32,0.2,0.14,0.29,0.2,100.09,False
+METHOTREXATE,Skin lesion,35,0.2,0.14,0.28,0.2,113.02,False
+METHOTREXATE,Cellulitis,37,0.18,0.13,0.24,0.18,141.19,False
+METHOTREXATE,Rectal tenesmus,3,0.4,0.13,1.23,0.4,2.74,False
+METHOTREXATE,Tooth fracture,14,0.22,0.13,0.36,0.22,39.73,False
+METHOTREXATE,Influenza,165,0.16,0.13,0.18,0.16,748.22,False
+METHOTREXATE,Accident at work,3,0.41,0.13,1.28,0.41,2.52,False
+METHOTREXATE,Pulse absent,3,0.42,0.13,1.31,0.42,2.37,False
+METHOTREXATE,Enteritis,8,0.25,0.13,0.51,0.25,17.51,False
+METHOTREXATE,Purulent discharge,6,0.29,0.13,0.64,0.29,10.6,False
+METHOTREXATE,Sinusitis bacterial,5,0.32,0.13,0.77,0.32,7.22,False
+METHOTREXATE,Fracture,14,0.22,0.13,0.38,0.22,37.96,False
+METHOTREXATE,Arthrodesis,3,0.4,0.13,1.26,0.4,2.59,False
+METHOTREXATE,Vitamin B12 decreased,9,0.26,0.13,0.5,0.26,19.02,False
+METHOTREXATE,Breath sounds abnormal,45,0.18,0.13,0.24,0.18,167.9,False
+METHOTREXATE,Immune effector cell-associated neurotoxicity syndrome,12,0.22,0.13,0.4,0.22,31.98,False
+METHOTREXATE,Low density lipoprotein increased,9,0.26,0.13,0.5,0.26,19.17,False
+METHOTREXATE,Glaucoma,12,0.22,0.13,0.4,0.22,31.87,False
+METHOTREXATE,Inadequate analgesia,3,0.42,0.13,1.31,0.42,2.37,False
+METHOTREXATE,Anticipatory anxiety,5,0.32,0.13,0.76,0.32,7.36,False
+METHOTREXATE,Streptococcal bacteraemia,3,0.41,0.13,1.28,0.41,2.52,False
+METHOTREXATE,Pneumonitis,25,0.19,0.13,0.28,0.19,85.27,False
+METHOTREXATE,Blood immunoglobulin M decreased,4,0.35,0.13,0.94,0.35,4.73,False
+METHOTREXATE,Inflammatory marker increased,13,0.22,0.13,0.37,0.22,36.41,False
+METHOTREXATE,Product knowledge deficit,3,0.39,0.13,1.22,0.39,2.8,False
+METHOTREXATE,Osteomyelitis,11,0.23,0.13,0.41,0.23,28.72,False
+METHOTREXATE,Dysphagia,89,0.16,0.13,0.2,0.16,380.99,False
+METHOTREXATE,Transaminases increased,47,0.17,0.13,0.23,0.17,182.94,False
+METHOTREXATE,Eye pain,47,0.18,0.13,0.24,0.18,178.28,False
+METHOTREXATE,Wound complication,8,0.25,0.13,0.51,0.25,17.51,False
+METHOTREXATE,Venous thrombosis,4,0.35,0.13,0.95,0.35,4.68,False
+METHOTREXATE,Cardiac murmur,44,0.17,0.13,0.23,0.17,170.86,False
+METHOTREXATE,Haemoglobin decreased,76,0.16,0.13,0.2,0.16,334.15,False
+METHOTREXATE,Clostridium difficile colitis,12,0.22,0.13,0.39,0.22,32.71,False
+METHOTREXATE,Facial paralysis,7,0.28,0.13,0.59,0.28,12.99,False
+METHOTREXATE,Cough,353,0.15,0.13,0.16,0.15,1723.48,False
+METHOTREXATE,Toxic shock syndrome,3,0.37,0.12,1.16,0.37,3.13,False
+METHOTREXATE,Animal scratch,3,0.36,0.12,1.13,0.36,3.32,False
+METHOTREXATE,Peripheral sensory neuropathy,5,0.3,0.12,0.72,0.3,8.27,False
+METHOTREXATE,Palpitations,112,0.14,0.12,0.17,0.14,570.5,False
+METHOTREXATE,Illness,138,0.15,0.12,0.17,0.15,683.72,False
+METHOTREXATE,Blood iron decreased,20,0.18,0.12,0.28,0.18,73.57,False
+METHOTREXATE,Compression fracture,11,0.21,0.12,0.38,0.21,32.57,False
+METHOTREXATE,Defaecation urgency,16,0.2,0.12,0.33,0.2,51.13,False
+METHOTREXATE,Generalised pustular psoriasis,3,0.36,0.12,1.12,0.36,3.39,False
+METHOTREXATE,Dysgeusia,53,0.16,0.12,0.2,0.16,241.25,False
+METHOTREXATE,Graft versus host disease in liver,3,0.39,0.12,1.21,0.39,2.85,False
+METHOTREXATE,Diverticulitis,24,0.18,0.12,0.27,0.18,87.32,False
+METHOTREXATE,Skin swelling,9,0.24,0.12,0.46,0.24,21.68,False
+METHOTREXATE,Foot fracture,16,0.19,0.12,0.31,0.19,54.94,False
+METHOTREXATE,Trigger finger,6,0.27,0.12,0.59,0.27,12.03,False
+METHOTREXATE,White matter lesion,6,0.27,0.12,0.6,0.27,11.81,False
+METHOTREXATE,Colon cancer,8,0.23,0.12,0.47,0.23,20.14,False
+METHOTREXATE,Haematochezia,74,0.15,0.12,0.19,0.15,349.87,False
+METHOTREXATE,Myalgia,96,0.14,0.12,0.18,0.14,486.68,False
+METHOTREXATE,Device related infection,21,0.19,0.12,0.29,0.19,72.72,False
+METHOTREXATE,Electroencephalogram abnormal,3,0.37,0.12,1.14,0.37,3.26,False
+METHOTREXATE,Mast cell activation syndrome,7,0.25,0.12,0.52,0.25,15.99,False
+METHOTREXATE,Demyelination,7,0.25,0.12,0.53,0.25,15.25,False
+METHOTREXATE,Eye operation,5,0.29,0.12,0.7,0.29,8.71,False
+METHOTREXATE,Anal incontinence,18,0.19,0.12,0.31,0.19,59.57,False
+METHOTREXATE,Reflux gastritis,4,0.33,0.12,0.89,0.33,5.29,False
+METHOTREXATE,Renal impairment,47,0.16,0.12,0.21,0.16,214.81,False
+METHOTREXATE,Drug level above therapeutic,11,0.21,0.12,0.38,0.21,31.99,False
+METHOTREXATE,Encephalitis,7,0.26,0.12,0.55,0.26,14.65,False
+METHOTREXATE,Ankle fracture,9,0.23,0.12,0.44,0.23,23.63,False
+METHOTREXATE,Fungal infection,25,0.16,0.11,0.24,0.16,109.45,False
+METHOTREXATE,Tooth infection,16,0.17,0.11,0.28,0.17,62.62,False
+METHOTREXATE,Cytomegalovirus colitis,5,0.26,0.11,0.63,0.26,10.31,False
+METHOTREXATE,Peripheral ischaemia,3,0.33,0.11,1.02,0.33,4.09,False
+METHOTREXATE,Diffuse large B-cell lymphoma recurrent,5,0.28,0.11,0.66,0.28,9.47,False
+METHOTREXATE,Sialoadenitis,4,0.29,0.11,0.78,0.29,6.88,False
+METHOTREXATE,Autonomic nervous system imbalance,4,0.3,0.11,0.81,0.3,6.36,False
+METHOTREXATE,Meningitis,5,0.27,0.11,0.64,0.27,10.06,False
+METHOTREXATE,Sepsis,92,0.13,0.11,0.16,0.13,525.58,False
+METHOTREXATE,Brain injury,6,0.25,0.11,0.56,0.25,13.22,False
+METHOTREXATE,Intraocular pressure increased,5,0.26,0.11,0.62,0.26,10.65,False
+METHOTREXATE,Aphonia,13,0.18,0.11,0.32,0.18,47.19,False
+METHOTREXATE,Cholelithiasis,35,0.15,0.11,0.21,0.15,163.68,False
+METHOTREXATE,Tendon pain,4,0.29,0.11,0.78,0.29,6.77,False
+METHOTREXATE,Oropharyngeal pain,78,0.14,0.11,0.18,0.14,402.33,False
+METHOTREXATE,White blood cell count decreased,93,0.13,0.11,0.16,0.13,526.32,False
+METHOTREXATE,Haemorrhage,59,0.14,0.11,0.18,0.14,309.54,False
+METHOTREXATE,Photosensitivity reaction,10,0.21,0.11,0.38,0.21,30.32,False
+METHOTREXATE,Chronic graft versus host disease,3,0.34,0.11,1.07,0.34,3.77,False
+METHOTREXATE,Colitis,32,0.15,0.11,0.22,0.15,150.15,False
+METHOTREXATE,Skin exfoliation,72,0.14,0.11,0.17,0.14,390.78,False
+METHOTREXATE,Cholangitis,7,0.22,0.11,0.47,0.22,18.87,False
+METHOTREXATE,Treatment delayed,7,0.24,0.11,0.5,0.24,16.82,False
+METHOTREXATE,Haematological infection,9,0.21,0.11,0.41,0.21,26.33,False
+METHOTREXATE,Lip injury,3,0.34,0.11,1.05,0.34,3.85,False
+METHOTREXATE,Eye disorder,19,0.18,0.11,0.28,0.18,73.28,False
+METHOTREXATE,Device failure,7,0.23,0.11,0.48,0.23,18.37,False
+METHOTREXATE,Odynophagia,6,0.23,0.11,0.52,0.23,14.88,False
+METHOTREXATE,Skin atrophy,6,0.24,0.11,0.53,0.24,14.39,False
+METHOTREXATE,Proctalgia,8,0.23,0.11,0.46,0.23,20.69,False
+METHOTREXATE,Intervertebral disc degeneration,7,0.23,0.11,0.49,0.23,17.8,False
+METHOTREXATE,Uterine leiomyoma,6,0.24,0.11,0.54,0.24,14.16,False
+METHOTREXATE,Coagulopathy,8,0.21,0.11,0.42,0.21,23.5,False
+METHOTREXATE,Endocrine ophthalmopathy,3,0.31,0.1,0.97,0.31,4.53,False
+METHOTREXATE,Cataract operation,4,0.27,0.1,0.72,0.27,7.92,False
+METHOTREXATE,Bronchiectasis,58,0.13,0.1,0.17,0.13,331.22,False
+METHOTREXATE,Tibia fracture,4,0.27,0.1,0.73,0.27,7.66,False
+METHOTREXATE,Foreign body,5,0.25,0.1,0.6,0.25,11.28,False
+METHOTREXATE,Skin discolouration,23,0.14,0.1,0.22,0.14,116.92,False
+METHOTREXATE,Pulmonary hypertension,16,0.17,0.1,0.28,0.17,64.96,False
+METHOTREXATE,Tinnitus,55,0.14,0.1,0.18,0.14,303.46,False
+METHOTREXATE,Vitamin D decreased,11,0.18,0.1,0.32,0.18,41.54,False
+METHOTREXATE,Skin warm,4,0.26,0.1,0.68,0.26,8.63,False
+METHOTREXATE,Urinary tract infection,114,0.12,0.1,0.14,0.12,734.37,False
+METHOTREXATE,Injection site extravasation,4,0.27,0.1,0.72,0.27,7.83,False
+METHOTREXATE,Oral pain,14,0.18,0.1,0.3,0.18,54.14,False
+METHOTREXATE,Concomitant disease aggravated,9,0.2,0.1,0.38,0.2,29.39,False
+METHOTREXATE,Skin cancer,13,0.18,0.1,0.31,0.18,48.04,False
+METHOTREXATE,Multiple fractures,7,0.2,0.1,0.42,0.2,21.95,False
+METHOTREXATE,Spinal operation,10,0.19,0.1,0.36,0.19,33.42,False
+METHOTREXATE,Eosinophilic granulomatosis with polyangiitis,25,0.15,0.1,0.22,0.15,118.25,False
+METHOTREXATE,Electrolyte imbalance,10,0.19,0.1,0.35,0.19,34.83,False
+METHOTREXATE,Ovarian cyst,6,0.23,0.1,0.52,0.23,15.03,False
+METHOTREXATE,Vein disorder,5,0.23,0.1,0.56,0.23,12.51,False
+METHOTREXATE,Blood cholesterol abnormal,4,0.27,0.1,0.72,0.27,7.89,False
+METHOTREXATE,Tendon rupture,6,0.22,0.1,0.49,0.22,16.55,False
+METHOTREXATE,Blood pressure systolic decreased,12,0.18,0.1,0.32,0.18,44.04,False
+METHOTREXATE,Circumstance or information capable of leading to medication error,12,0.18,0.1,0.32,0.18,43.27,False
+METHOTREXATE,Blood blister,4,0.27,0.1,0.73,0.27,7.61,False
+METHOTREXATE,Lymphoma,7,0.2,0.1,0.42,0.2,21.97,False
+METHOTREXATE,Varicella,3,0.3,0.1,0.93,0.3,4.86,False
+METHOTREXATE,Gingivitis,8,0.2,0.1,0.4,0.2,25.16,False
+METHOTREXATE,Lymphadenopathy,23,0.14,0.1,0.22,0.14,116.71,False
+METHOTREXATE,Oxygen saturation decreased,69,0.13,0.1,0.16,0.13,407.96,False
+METHOTREXATE,Fine motor skill dysfunction,6,0.21,0.1,0.48,0.21,17.22,False
+METHOTREXATE,Vitreous floaters,7,0.22,0.1,0.45,0.22,19.88,False
+METHOTREXATE,Nephrolithiasis,44,0.13,0.1,0.17,0.13,256.17,False
+METHOTREXATE,Myopathy,7,0.22,0.1,0.46,0.22,19.68,False
+METHOTREXATE,Bone marrow disorder,4,0.26,0.1,0.7,0.26,8.17,False
+METHOTREXATE,Infusion site extravasation,11,0.17,0.1,0.31,0.17,43.16,False
+METHOTREXATE,Pain in jaw,22,0.14,0.1,0.22,0.14,110.71,False
+METHOTREXATE,Obliterative bronchiolitis,3,0.27,0.09,0.84,0.27,5.83,False
+METHOTREXATE,Neutropenia,107,0.11,0.09,0.14,0.11,733.43,False
+METHOTREXATE,Ear pruritus,7,0.19,0.09,0.4,0.19,23.7,False
+METHOTREXATE,Swelling face,46,0.12,0.09,0.16,0.12,302.17,False
+METHOTREXATE,Toxic skin eruption,5,0.21,0.09,0.51,0.21,14.42,False
+METHOTREXATE,Nervousness,18,0.15,0.09,0.24,0.15,87.16,False
+METHOTREXATE,Candida infection,18,0.14,0.09,0.22,0.14,98.41,False
+METHOTREXATE,Mania,7,0.19,0.09,0.39,0.19,24.82,False
+METHOTREXATE,Sensitivity to weather change,8,0.17,0.09,0.35,0.17,31.12,False
+METHOTREXATE,Stevens-Johnson syndrome,8,0.17,0.09,0.35,0.17,31.47,False
+METHOTREXATE,Abdominal pain lower,14,0.15,0.09,0.25,0.15,67.28,False
+METHOTREXATE,Mood swings,13,0.16,0.09,0.27,0.16,59.29,False
+METHOTREXATE,Product used for unknown indication,11,0.16,0.09,0.29,0.16,47.66,False
+METHOTREXATE,Carpal tunnel syndrome,11,0.16,0.09,0.29,0.16,48.96,False
+METHOTREXATE,Skin infection,12,0.15,0.09,0.27,0.15,56.06,False
+METHOTREXATE,Injection site discharge,7,0.18,0.09,0.39,0.18,25.35,False
+METHOTREXATE,Swollen tongue,47,0.12,0.09,0.15,0.12,316.18,False
+METHOTREXATE,Pulmonary function test decreased,4,0.23,0.09,0.61,0.23,10.26,False
+METHOTREXATE,Pleuritic pain,32,0.13,0.09,0.19,0.13,180.78,False
+METHOTREXATE,Urinary retention,23,0.13,0.09,0.2,0.13,131.36,False
+METHOTREXATE,Plasma cell myeloma,13,0.16,0.09,0.27,0.16,58.67,False
+METHOTREXATE,Skin depigmentation,3,0.28,0.09,0.86,0.28,5.64,False
+METHOTREXATE,Heart rate irregular,13,0.15,0.09,0.26,0.15,61.43,False
+METHOTREXATE,Stress,86,0.11,0.09,0.14,0.11,599.32,False
+METHOTREXATE,Pancreatitis necrotising,3,0.27,0.09,0.84,0.27,5.95,False
+METHOTREXATE,Sinus bradycardia,6,0.21,0.09,0.46,0.21,18.12,False
+METHOTREXATE,Pericardial effusion,17,0.14,0.09,0.23,0.14,85.57,False
+METHOTREXATE,Duodenal ulcer,6,0.19,0.09,0.43,0.19,20.4,False
+METHOTREXATE,Blood creatinine decreased,6,0.2,0.09,0.44,0.2,19.79,False
+METHOTREXATE,Skin abrasion,9,0.17,0.09,0.33,0.17,35.95,False
+METHOTREXATE,Spinal disorder,9,0.17,0.09,0.33,0.17,36.16,False
+METHOTREXATE,Hypertensive crisis,6,0.19,0.09,0.43,0.19,19.99,False
+METHOTREXATE,Right ventricular failure,6,0.2,0.09,0.45,0.2,18.82,False
+METHOTREXATE,Prescription drug used without a prescription,6,0.2,0.09,0.44,0.2,19.38,False
+METHOTREXATE,Cardiomegaly,6,0.21,0.09,0.47,0.21,17.89,False
+METHOTREXATE,Knee operation,6,0.2,0.09,0.45,0.2,19.0,False
+METHOTREXATE,Rhinovirus infection,9,0.17,0.09,0.33,0.17,35.62,False
+METHOTREXATE,Needle issue,17,0.14,0.09,0.23,0.14,86.91,False
+METHOTREXATE,Ejection fraction decreased,20,0.13,0.08,0.2,0.13,119.16,False
+METHOTREXATE,Nightmare,41,0.11,0.08,0.15,0.11,297.04,False
+METHOTREXATE,Hypernatraemia,5,0.19,0.08,0.45,0.19,17.78,False
+METHOTREXATE,Cardiac ventricular thrombosis,3,0.25,0.08,0.77,0.25,6.88,False
+METHOTREXATE,Flatulence,29,0.11,0.08,0.16,0.11,201.56,False
+METHOTREXATE,Ileostomy,3,0.25,0.08,0.79,0.25,6.48,False
+METHOTREXATE,Scleroderma,3,0.26,0.08,0.8,0.26,6.4,False
+METHOTREXATE,Shoulder arthroplasty,3,0.26,0.08,0.82,0.26,6.17,False
+METHOTREXATE,Renal injury,5,0.2,0.08,0.47,0.2,16.28,False
+METHOTREXATE,Throat irritation,36,0.11,0.08,0.16,0.11,246.54,False
+METHOTREXATE,Immobile,6,0.18,0.08,0.39,0.18,23.14,False
+METHOTREXATE,Prostatic specific antigen increased,7,0.18,0.08,0.37,0.18,26.94,False
+METHOTREXATE,Eczema,53,0.11,0.08,0.14,0.11,402.27,False
+METHOTREXATE,Thyroid disorder,10,0.16,0.08,0.29,0.16,45.32,False
+METHOTREXATE,Productive cough,66,0.1,0.08,0.13,0.1,537.37,False
+METHOTREXATE,Acute respiratory failure,16,0.14,0.08,0.22,0.14,86.8,False
+METHOTREXATE,Eyelid ptosis,6,0.18,0.08,0.4,0.18,22.81,False
+METHOTREXATE,Chills,52,0.11,0.08,0.14,0.11,389.69,False
+METHOTREXATE,Therapy interrupted,43,0.11,0.08,0.14,0.11,320.65,False
+METHOTREXATE,Streptococcal infection,5,0.18,0.08,0.44,0.18,18.25,False
+METHOTREXATE,Reduced facial expression,6,0.18,0.08,0.4,0.18,22.73,False
+METHOTREXATE,Investigation abnormal,3,0.26,0.08,0.82,0.26,6.2,False
+METHOTREXATE,Metamorphopsia,3,0.25,0.08,0.79,0.25,6.48,False
+METHOTREXATE,International normalised ratio increased,5,0.19,0.08,0.46,0.19,17.25,False
+METHOTREXATE,Pseudomonal sepsis,3,0.26,0.08,0.82,0.26,6.09,False
+METHOTREXATE,Dyschezia,5,0.2,0.08,0.47,0.2,16.49,False
+METHOTREXATE,Hernia,11,0.14,0.08,0.25,0.14,57.84,False
+METHOTREXATE,Polyneuropathy,9,0.15,0.08,0.29,0.15,42.24,False
+METHOTREXATE,Subdural haematoma,7,0.17,0.08,0.35,0.17,28.89,False
+METHOTREXATE,Mixed liver injury,4,0.22,0.08,0.59,0.22,11.01,False
+METHOTREXATE,Pulmonary embolism,73,0.1,0.08,0.13,0.1,586.5,False
+METHOTREXATE,Chest discomfort,82,0.1,0.08,0.12,0.1,702.61,False
+METHOTREXATE,Metabolic disorder,5,0.19,0.08,0.46,0.19,17.25,False
+METHOTREXATE,Vitreous detachment,3,0.26,0.08,0.8,0.26,6.34,False
+METHOTREXATE,Drug interaction,80,0.1,0.08,0.13,0.1,637.72,False
+METHOTREXATE,Hepatic enzyme abnormal,5,0.2,0.08,0.47,0.2,16.26,False
+METHOTREXATE,Cytomegalovirus viraemia,6,0.17,0.08,0.39,0.17,23.67,False
+METHOTREXATE,Abnormal faeces,8,0.17,0.08,0.34,0.17,32.92,False
+METHOTREXATE,Renal cell carcinoma,3,0.26,0.08,0.8,0.26,6.45,False
+METHOTREXATE,Presyncope,21,0.13,0.08,0.19,0.13,127.32,False
+METHOTREXATE,Abdominal rigidity,4,0.21,0.08,0.57,0.21,11.67,False
+METHOTREXATE,Lethargy,20,0.12,0.08,0.19,0.12,125.22,False
+METHOTREXATE,Barrett's oesophagus,3,0.25,0.08,0.76,0.25,6.91,False
+METHOTREXATE,Skin laceration,17,0.14,0.08,0.22,0.14,93.07,False
+METHOTREXATE,Oral disorder,6,0.16,0.07,0.35,0.16,26.72,False
+METHOTREXATE,Spinal fracture,11,0.12,0.07,0.22,0.12,69.58,False
+METHOTREXATE,Venoocclusive liver disease,3,0.22,0.07,0.67,0.22,8.52,False
+METHOTREXATE,Photopsia,4,0.18,0.07,0.47,0.18,15.31,False
+METHOTREXATE,Plantar fasciitis,33,0.1,0.07,0.14,0.1,260.45,False
+METHOTREXATE,Injection site bruising,29,0.1,0.07,0.14,0.1,244.63,False
+METHOTREXATE,Nail discolouration,3,0.23,0.07,0.72,0.23,7.6,False
+METHOTREXATE,Pharyngitis,10,0.14,0.07,0.26,0.14,53.39,False
+METHOTREXATE,Dry throat,8,0.14,0.07,0.28,0.14,42.44,False
+METHOTREXATE,Oral candidiasis,13,0.12,0.07,0.21,0.12,81.25,False
+METHOTREXATE,Drug effect less than expected,14,0.13,0.07,0.21,0.13,84.11,False
+METHOTREXATE,Lymphocyte count decreased,16,0.12,0.07,0.19,0.12,105.6,False
+METHOTREXATE,Cystitis noninfective,4,0.18,0.07,0.48,0.18,14.84,False
+METHOTREXATE,Pneumonia viral,4,0.19,0.07,0.5,0.19,14.13,False
+METHOTREXATE,Hip fracture,13,0.13,0.07,0.22,0.13,78.16,False
+METHOTREXATE,Swelling of eyelid,7,0.15,0.07,0.31,0.15,33.9,False
+METHOTREXATE,Anorectal discomfort,4,0.2,0.07,0.53,0.2,12.78,False
+METHOTREXATE,Decreased activity,9,0.14,0.07,0.27,0.14,46.86,False
+METHOTREXATE,Immunosuppressant drug level increased,3,0.22,0.07,0.7,0.22,8.03,False
+METHOTREXATE,Fear of injection,6,0.16,0.07,0.36,0.16,26.19,False
+METHOTREXATE,Pallor,10,0.12,0.07,0.23,0.12,63.28,False
+METHOTREXATE,Bone cancer,3,0.2,0.07,0.64,0.2,9.19,False
+METHOTREXATE,Rosacea,5,0.17,0.07,0.41,0.17,20.43,False
+METHOTREXATE,Food craving,5,0.18,0.07,0.43,0.18,19.02,False
+METHOTREXATE,Blood urine present,9,0.13,0.07,0.26,0.13,50.8,False
+METHOTREXATE,Anaemia,127,0.08,0.07,0.09,0.08,1356.1,False
+METHOTREXATE,Respiratory syncytial virus infection,12,0.12,0.07,0.22,0.12,74.29,False
+METHOTREXATE,Dysuria,18,0.11,0.07,0.17,0.11,131.86,False
+METHOTREXATE,Urinary incontinence,15,0.11,0.07,0.19,0.11,104.65,False
+METHOTREXATE,Limb operation,3,0.21,0.07,0.66,0.21,8.76,False
+METHOTREXATE,Injection site discomfort,6,0.16,0.07,0.35,0.16,26.78,False
+METHOTREXATE,Hepatic function abnormal,18,0.1,0.07,0.16,0.1,139.43,False
+METHOTREXATE,Cardiac arrest,22,0.1,0.07,0.16,0.1,172.63,False
+METHOTREXATE,Lymphocyte count abnormal,3,0.22,0.07,0.69,0.22,8.18,False
+METHOTREXATE,Apathy,12,0.12,0.07,0.22,0.12,75.46,False
+METHOTREXATE,Product availability issue,17,0.12,0.07,0.19,0.12,112.5,False
+METHOTREXATE,Product prescribing error,15,0.11,0.07,0.19,0.11,105.28,False
+METHOTREXATE,Colitis microscopic,5,0.16,0.07,0.38,0.16,22.54,False
+METHOTREXATE,Recurrent cancer,3,0.23,0.07,0.72,0.23,7.63,False
+METHOTREXATE,Product dose omission in error,29,0.1,0.07,0.14,0.1,236.08,False
+METHOTREXATE,Haematuria,25,0.11,0.07,0.16,0.11,186.28,False
+METHOTREXATE,Lower respiratory tract congestion,5,0.18,0.07,0.43,0.18,19.02,False
+METHOTREXATE,Nocturia,10,0.12,0.07,0.23,0.12,63.25,False
+METHOTREXATE,Decubitus ulcer,7,0.15,0.07,0.31,0.15,34.35,False
+METHOTREXATE,Epidermal necrosis,6,0.16,0.07,0.36,0.16,25.68,False
+METHOTREXATE,Contrast media allergy,3,0.21,0.07,0.64,0.21,9.05,False
+METHOTREXATE,Lung neoplasm malignant,12,0.12,0.07,0.21,0.12,76.18,False
+METHOTREXATE,Myocardial infarction,27,0.1,0.07,0.14,0.1,224.48,False
+METHOTREXATE,Sunburn,3,0.23,0.07,0.7,0.23,7.89,False
+METHOTREXATE,Rheumatoid lung,3,0.21,0.07,0.64,0.21,9.11,False
+METHOTREXATE,Epistaxis,38,0.09,0.07,0.13,0.09,342.51,False
+METHOTREXATE,Skin erosion,3,0.23,0.07,0.71,0.23,7.8,False
+METHOTREXATE,Kidney infection,12,0.12,0.07,0.22,0.12,74.41,False
+METHOTREXATE,Catheterisation cardiac,4,0.19,0.07,0.51,0.19,13.6,False
+METHOTREXATE,Multiple organ dysfunction syndrome,37,0.1,0.07,0.13,0.1,315.68,False
+METHOTREXATE,Brain fog,24,0.1,0.07,0.15,0.1,194.19,False
+METHOTREXATE,Accidental exposure to product,19,0.09,0.06,0.14,0.09,176.09,False
+METHOTREXATE,Acute myeloid leukaemia recurrent,4,0.15,0.06,0.4,0.15,19.52,False
+METHOTREXATE,Pseudomonas infection,8,0.12,0.06,0.24,0.12,51.97,False
+METHOTREXATE,Sinus tachycardia,7,0.13,0.06,0.28,0.13,39.19,False
+METHOTREXATE,Injection site rash,9,0.11,0.06,0.21,0.11,65.37,False
+METHOTREXATE,Blood testosterone decreased,3,0.19,0.06,0.61,0.19,9.92,False
+METHOTREXATE,Multiple sclerosis relapse,8,0.13,0.06,0.26,0.13,47.53,False
+METHOTREXATE,Inflammatory bowel disease,3,0.17,0.06,0.53,0.17,11.98,False
+METHOTREXATE,Cytokine release syndrome,19,0.09,0.06,0.14,0.09,172.52,False
+METHOTREXATE,Muscle disorder,3,0.18,0.06,0.56,0.18,11.27,False
+METHOTREXATE,Eosinophilic oesophagitis,4,0.17,0.06,0.46,0.17,15.84,False
+METHOTREXATE,Central nervous system lesion,4,0.17,0.06,0.46,0.17,15.84,False
+METHOTREXATE,Mouth haemorrhage,4,0.15,0.06,0.4,0.15,19.43,False
+METHOTREXATE,Infusion site pain,20,0.09,0.06,0.13,0.09,195.33,False
+METHOTREXATE,Full blood count decreased,9,0.11,0.06,0.22,0.11,62.63,False
+METHOTREXATE,Hypothermia,4,0.16,0.06,0.43,0.16,17.5,False
+METHOTREXATE,Device defective,8,0.12,0.06,0.24,0.12,51.88,False
+METHOTREXATE,Aneurysm,3,0.2,0.06,0.61,0.2,9.86,False
+METHOTREXATE,Injection site swelling,19,0.09,0.06,0.14,0.09,171.22,False
+METHOTREXATE,Disorientation,11,0.12,0.06,0.21,0.12,73.52,False
+METHOTREXATE,Retinal haemorrhage,4,0.16,0.06,0.43,0.16,17.56,False
+METHOTREXATE,Renal cancer,3,0.18,0.06,0.55,0.18,11.39,False
+METHOTREXATE,Throat tightness,10,0.11,0.06,0.2,0.11,73.17,False
+METHOTREXATE,Tendonitis,5,0.14,0.06,0.34,0.14,25.67,False
+METHOTREXATE,Immune system disorder,8,0.13,0.06,0.25,0.13,48.67,False
+METHOTREXATE,Neoplasm progression,7,0.13,0.06,0.27,0.13,41.73,False
+METHOTREXATE,Intestinal haemorrhage,3,0.2,0.06,0.63,0.2,9.4,False
+METHOTREXATE,Drug level increased,8,0.12,0.06,0.24,0.12,50.2,False
+METHOTREXATE,Pelvic fracture,8,0.13,0.06,0.26,0.13,47.65,False
+METHOTREXATE,Pneumonia bacterial,10,0.12,0.06,0.22,0.12,64.27,False
+METHOTREXATE,Circulatory collapse,6,0.13,0.06,0.29,0.13,35.07,False
+METHOTREXATE,Emphysema,5,0.14,0.06,0.33,0.14,27.4,False
+METHOTREXATE,Decreased immune responsiveness,19,0.1,0.06,0.16,0.1,154.36,False
+METHOTREXATE,Therapeutic product effect delayed,3,0.17,0.06,0.54,0.17,11.83,False
+METHOTREXATE,Femur fracture,10,0.12,0.06,0.22,0.12,65.77,False
+METHOTREXATE,Shoulder operation,3,0.18,0.06,0.56,0.18,11.01,False
+METHOTREXATE,Petechiae,5,0.15,0.06,0.37,0.15,23.13,False
+METHOTREXATE,Device malfunction,15,0.09,0.06,0.15,0.09,132.49,False
+METHOTREXATE,Hyperuricaemia,5,0.15,0.06,0.36,0.15,23.94,False
+METHOTREXATE,Tooth extraction,5,0.15,0.06,0.37,0.15,23.61,False
+METHOTREXATE,Pulmonary thrombosis,5,0.15,0.06,0.35,0.15,24.77,False
+METHOTREXATE,Glomerular filtration rate decreased,9,0.12,0.06,0.23,0.12,58.36,False
+METHOTREXATE,Seasonal allergy,15,0.1,0.06,0.17,0.1,120.05,False
+METHOTREXATE,Urine odour abnormal,5,0.15,0.06,0.37,0.15,23.55,False
+METHOTREXATE,Injection site pruritus,18,0.1,0.06,0.16,0.1,143.32,False
+METHOTREXATE,Blood thyroid stimulating hormone increased,5,0.14,0.06,0.33,0.14,26.68,False
+METHOTREXATE,Cyst,5,0.13,0.06,0.32,0.13,27.73,False
+METHOTREXATE,Renal function test abnormal,16,0.1,0.06,0.17,0.1,125.47,False
+METHOTREXATE,Coma,15,0.09,0.06,0.15,0.09,133.13,False
+METHOTREXATE,Tooth abscess,10,0.12,0.06,0.22,0.12,64.18,False
+METHOTREXATE,Psychiatric symptom,4,0.17,0.06,0.44,0.17,16.81,False
+METHOTREXATE,Gingival bleeding,7,0.13,0.06,0.26,0.13,42.36,False
+METHOTREXATE,Platelet count decreased,47,0.08,0.06,0.11,0.08,494.21,False
+METHOTREXATE,Herpes virus infection,4,0.17,0.06,0.44,0.17,16.76,False
+METHOTREXATE,Rash erythematous,36,0.08,0.06,0.11,0.08,385.69,False
+METHOTREXATE,Bronchitis chronic,3,0.19,0.06,0.59,0.19,10.25,False
+METHOTREXATE,Injection site vesicles,4,0.17,0.06,0.46,0.17,15.87,False
+METHOTREXATE,Furuncle,4,0.17,0.06,0.45,0.17,16.13,False
+METHOTREXATE,Rib fracture,13,0.1,0.06,0.18,0.1,102.44,False
+METHOTREXATE,Product administered to patient of inappropriate age,6,0.13,0.06,0.29,0.13,35.4,False
+METHOTREXATE,Device mechanical issue,7,0.13,0.06,0.27,0.13,40.42,False
+METHOTREXATE,Therapy cessation,11,0.1,0.06,0.18,0.1,87.67,False
+METHOTREXATE,Tooth disorder,9,0.11,0.06,0.2,0.11,67.51,False
+METHOTREXATE,Face oedema,6,0.12,0.06,0.28,0.12,36.84,False
+METHOTREXATE,Oral discomfort,7,0.13,0.06,0.27,0.13,40.84,False
+METHOTREXATE,Anal haemorrhage,3,0.2,0.06,0.61,0.2,9.75,False
+METHOTREXATE,Sexual dysfunction,4,0.14,0.05,0.37,0.14,21.49,False
+METHOTREXATE,Ileus,12,0.09,0.05,0.17,0.09,104.17,False
+METHOTREXATE,Endometriosis,3,0.17,0.05,0.52,0.17,12.49,False
+METHOTREXATE,Foreign body sensation in eyes,3,0.17,0.05,0.51,0.17,12.57,False
+METHOTREXATE,Symptom recurrence,4,0.12,0.05,0.33,0.12,24.99,False
+METHOTREXATE,Pollakiuria,13,0.08,0.05,0.14,0.08,140.37,False
+METHOTREXATE,Aura,3,0.15,0.05,0.46,0.15,14.56,False
+METHOTREXATE,Malignant neoplasm progression,29,0.07,0.05,0.1,0.07,361.82,False
+METHOTREXATE,Intestinal stenosis,3,0.16,0.05,0.49,0.16,13.34,False
+METHOTREXATE,Respiratory symptom,22,0.07,0.05,0.11,0.07,269.49,False
+METHOTREXATE,Blepharitis,3,0.16,0.05,0.5,0.16,13.2,False
+METHOTREXATE,Syncope,29,0.07,0.05,0.1,0.07,369.8,False
+METHOTREXATE,Gestational diabetes,3,0.15,0.05,0.48,0.15,13.97,False
+METHOTREXATE,Poor quality sleep,14,0.08,0.05,0.14,0.08,138.27,False
+METHOTREXATE,Feeding disorder,13,0.09,0.05,0.16,0.09,115.33,False
+METHOTREXATE,Dyspnoea at rest,3,0.15,0.05,0.47,0.15,14.21,False
+METHOTREXATE,Raynaud's phenomenon,3,0.17,0.05,0.53,0.17,12.19,False
+METHOTREXATE,Urosepsis,4,0.13,0.05,0.33,0.13,24.3,False
+METHOTREXATE,Acute hepatic failure,4,0.13,0.05,0.33,0.13,24.36,False
+METHOTREXATE,Thyroid mass,3,0.15,0.05,0.47,0.15,14.06,False
+METHOTREXATE,Necrosis,3,0.15,0.05,0.45,0.15,14.98,False
+METHOTREXATE,Pharyngeal paraesthesia,3,0.15,0.05,0.48,0.15,13.85,False
+METHOTREXATE,IgA nephropathy,3,0.14,0.05,0.44,0.14,15.79,False
+METHOTREXATE,Hydrocephalus,3,0.15,0.05,0.46,0.15,14.59,False
+METHOTREXATE,Craniofacial fracture,3,0.16,0.05,0.49,0.16,13.32,False
+METHOTREXATE,Therapeutic response unexpected,8,0.1,0.05,0.21,0.1,61.54,False
+METHOTREXATE,Onychoclasis,5,0.12,0.05,0.29,0.12,31.62,False
+METHOTREXATE,Cerebral infarction,6,0.11,0.05,0.25,0.11,41.14,False
+METHOTREXATE,Drug use disorder,5,0.13,0.05,0.3,0.13,30.09,False
+METHOTREXATE,Product substitution issue,6,0.11,0.05,0.25,0.11,42.07,False
+METHOTREXATE,Sarcoidosis,7,0.1,0.05,0.21,0.1,54.94,False
+METHOTREXATE,Therapy change,6,0.11,0.05,0.25,0.11,41.08,False
+METHOTREXATE,Fungal skin infection,3,0.16,0.05,0.49,0.16,13.29,False
+METHOTREXATE,Social problem,4,0.13,0.05,0.35,0.13,23.25,False
+METHOTREXATE,Gamma-glutamyltransferase increased,9,0.09,0.05,0.18,0.09,79.79,False
+METHOTREXATE,Oliguria,3,0.15,0.05,0.47,0.15,14.33,False
+METHOTREXATE,Therapeutic reaction time decreased,5,0.13,0.05,0.3,0.13,30.21,False
+METHOTREXATE,Vascular device infection,11,0.08,0.05,0.15,0.08,113.46,False
+METHOTREXATE,Psychomotor hyperactivity,5,0.11,0.05,0.27,0.11,34.63,False
+METHOTREXATE,Early satiety,4,0.13,0.05,0.36,0.13,22.44,False
+METHOTREXATE,Blood bilirubin increased,10,0.09,0.05,0.17,0.09,91.49,False
+METHOTREXATE,Visual acuity reduced,5,0.13,0.05,0.31,0.13,29.01,False
+METHOTREXATE,Norovirus infection,4,0.13,0.05,0.35,0.13,23.04,False
+METHOTREXATE,Blood potassium decreased,10,0.09,0.05,0.17,0.09,91.98,False
+METHOTREXATE,Atrial fibrillation,36,0.07,0.05,0.09,0.07,466.48,False
+METHOTREXATE,Gastroenteritis,9,0.1,0.05,0.2,0.1,69.71,False
+METHOTREXATE,Scratch,5,0.13,0.05,0.31,0.13,28.8,False
+METHOTREXATE,Feeling cold,12,0.1,0.05,0.17,0.1,101.39,False
+METHOTREXATE,Device difficult to use,7,0.1,0.05,0.21,0.1,55.93,False
+METHOTREXATE,Optic neuritis,4,0.14,0.05,0.37,0.14,21.7,False
+METHOTREXATE,Blood immunoglobulin G decreased,5,0.13,0.05,0.31,0.13,29.4,False
+METHOTREXATE,Injection site induration,4,0.12,0.05,0.33,0.12,24.81,False
+METHOTREXATE,Incorrect dose administered,55,0.06,0.05,0.08,0.06,776.75,False
+METHOTREXATE,Gastrointestinal inflammation,4,0.14,0.05,0.38,0.14,20.44,False
+METHOTREXATE,Rheumatoid factor increased,4,0.14,0.05,0.38,0.14,20.23,False
+METHOTREXATE,Seizure,57,0.07,0.05,0.09,0.07,705.7,False
+METHOTREXATE,Intestinal perforation,5,0.11,0.05,0.27,0.11,35.38,False
+METHOTREXATE,Respiration abnormal,6,0.12,0.05,0.27,0.12,38.22,False
+METHOTREXATE,Inguinal hernia,4,0.14,0.05,0.37,0.14,21.1,False
+METHOTREXATE,Autoimmune hepatitis,4,0.14,0.05,0.37,0.14,21.16,False
+METHOTREXATE,Oropharyngeal discomfort,7,0.11,0.05,0.22,0.11,52.44,False
+METHOTREXATE,Bedridden,6,0.12,0.05,0.27,0.12,38.79,False
+METHOTREXATE,Blood pressure decreased,25,0.07,0.05,0.11,0.07,285.22,False
+METHOTREXATE,Exposure via skin contact,12,0.09,0.05,0.16,0.09,112.31,False
+METHOTREXATE,Respiratory rate increased,7,0.1,0.05,0.21,0.1,55.12,False
+METHOTREXATE,Thrombosis,44,0.07,0.05,0.1,0.07,512.35,False
+METHOTREXATE,Rash papular,10,0.09,0.05,0.18,0.09,86.11,False
+METHOTREXATE,Neoplasm,6,0.11,0.05,0.26,0.11,40.87,False
+METHOTREXATE,Crying,9,0.1,0.05,0.19,0.1,75.26,False
+METHOTREXATE,Faeces hard,4,0.13,0.05,0.34,0.13,24.15,False
+METHOTREXATE,Gingival swelling,6,0.11,0.05,0.24,0.11,43.73,False
+METHOTREXATE,Erysipelas,4,0.13,0.05,0.35,0.13,23.19,False
+METHOTREXATE,Hypoaesthesia oral,6,0.12,0.05,0.26,0.12,40.63,False
+METHOTREXATE,Expired product administered,6,0.11,0.05,0.25,0.11,42.49,False
+METHOTREXATE,Scar,7,0.11,0.05,0.22,0.11,52.44,False
+METHOTREXATE,Postoperative wound infection,5,0.1,0.04,0.25,0.1,38.42,False
+METHOTREXATE,Bradycardia,9,0.07,0.04,0.14,0.07,104.86,False
+METHOTREXATE,Agitation,15,0.07,0.04,0.11,0.07,190.43,False
+METHOTREXATE,Skin fissures,7,0.08,0.04,0.17,0.08,72.5,False
+METHOTREXATE,Product container issue,3,0.12,0.04,0.37,0.12,19.23,False
+METHOTREXATE,Tachypnoea,5,0.09,0.04,0.22,0.09,44.94,False
+METHOTREXATE,Toothache,8,0.08,0.04,0.16,0.08,87.54,False
+METHOTREXATE,Cardiotoxicity,3,0.11,0.04,0.35,0.11,20.82,False
+METHOTREXATE,Escherichia urinary tract infection,3,0.12,0.04,0.38,0.12,18.84,False
+METHOTREXATE,Blood magnesium decreased,7,0.09,0.04,0.18,0.09,67.9,False
+METHOTREXATE,Coronavirus infection,3,0.11,0.04,0.35,0.11,20.91,False
+METHOTREXATE,Dermatitis allergic,5,0.09,0.04,0.21,0.09,46.54,False
+METHOTREXATE,Erectile dysfunction,5,0.09,0.04,0.22,0.09,44.55,False
+METHOTREXATE,Neutropenic sepsis,3,0.12,0.04,0.38,0.12,18.87,False
+METHOTREXATE,Vitamin D deficiency,6,0.08,0.04,0.18,0.08,62.82,False
+METHOTREXATE,Brain neoplasm,3,0.12,0.04,0.37,0.12,19.2,False
+METHOTREXATE,Ascites,18,0.06,0.04,0.09,0.06,268.59,False
+METHOTREXATE,Acute respiratory distress syndrome,6,0.09,0.04,0.21,0.09,53.59,False
+METHOTREXATE,Lip swelling,9,0.08,0.04,0.15,0.08,96.49,False
+METHOTREXATE,Sensory disturbance,6,0.08,0.04,0.18,0.08,63.61,False
+METHOTREXATE,Jaundice,6,0.1,0.04,0.22,0.1,48.58,False
+METHOTREXATE,Mental disorder,17,0.06,0.04,0.1,0.06,234.81,False
+METHOTREXATE,Intestinal obstruction,17,0.06,0.04,0.1,0.06,230.86,False
+METHOTREXATE,Iron deficiency anaemia,6,0.1,0.04,0.21,0.1,50.75,False
+METHOTREXATE,Device infusion issue,6,0.1,0.04,0.22,0.1,49.82,False
+METHOTREXATE,Device delivery system issue,9,0.08,0.04,0.15,0.08,100.61,False
+METHOTREXATE,Pancreatitis acute,6,0.09,0.04,0.21,0.09,53.35,False
+METHOTREXATE,Chromaturia,8,0.09,0.04,0.18,0.09,74.31,False
+METHOTREXATE,Upper limb fracture,5,0.1,0.04,0.23,0.1,41.8,False
+METHOTREXATE,Hypoalbuminaemia,9,0.09,0.04,0.16,0.09,87.71,False
+METHOTREXATE,Psychotic disorder,9,0.07,0.04,0.13,0.07,112.29,False
+METHOTREXATE,Neutrophil count increased,6,0.09,0.04,0.2,0.09,53.74,False
+METHOTREXATE,Shoulder fracture,3,0.11,0.04,0.35,0.11,20.79,False
+METHOTREXATE,Hypophagia,9,0.08,0.04,0.16,0.08,93.89,False
+METHOTREXATE,Renal tubular necrosis,3,0.11,0.04,0.34,0.11,21.67,False
+METHOTREXATE,Supraventricular tachycardia,3,0.14,0.04,0.42,0.14,16.5,False
+METHOTREXATE,Haemorrhoids,9,0.08,0.04,0.16,0.08,93.52,False
+METHOTREXATE,Mental status changes,5,0.09,0.04,0.22,0.09,45.33,False
+METHOTREXATE,Mean cell haemoglobin increased,3,0.14,0.04,0.43,0.14,16.09,False
+METHOTREXATE,Macular degeneration,7,0.08,0.04,0.16,0.08,76.62,False
+METHOTREXATE,Product taste abnormal,3,0.13,0.04,0.4,0.13,17.76,False
+METHOTREXATE,Angiopathy,3,0.11,0.04,0.34,0.11,21.46,False
+METHOTREXATE,Surgery,16,0.06,0.04,0.1,0.06,232.94,False
+METHOTREXATE,Product storage error,13,0.06,0.04,0.11,0.06,178.39,False
+METHOTREXATE,Arthropod bite,4,0.09,0.04,0.25,0.09,34.69,False
+METHOTREXATE,Nasal congestion,27,0.06,0.04,0.08,0.06,433.78,False
+METHOTREXATE,Joint noise,4,0.11,0.04,0.29,0.11,28.93,False
+METHOTREXATE,Irritability,13,0.06,0.04,0.11,0.06,176.32,False
+METHOTREXATE,Blindness unilateral,4,0.12,0.04,0.31,0.12,26.76,False
+METHOTREXATE,Cognitive disorder,27,0.07,0.04,0.1,0.07,359.67,False
+METHOTREXATE,Gastritis,8,0.08,0.04,0.16,0.08,84.91,False
+METHOTREXATE,Breast cancer female,3,0.12,0.04,0.36,0.12,19.98,False
+METHOTREXATE,Cyanosis,4,0.1,0.04,0.25,0.1,34.33,False
+METHOTREXATE,Splenomegaly,4,0.1,0.04,0.28,0.1,30.74,False
+METHOTREXATE,Radiculopathy,4,0.11,0.04,0.28,0.11,30.35,False
+METHOTREXATE,Head discomfort,11,0.06,0.04,0.11,0.06,151.47,False
+METHOTREXATE,Injection site erythema,19,0.06,0.04,0.09,0.06,276.41,False
+METHOTREXATE,Injection site haemorrhage,13,0.07,0.04,0.12,0.07,160.93,False
+METHOTREXATE,Oesophageal pain,4,0.1,0.04,0.27,0.1,31.49,False
+METHOTREXATE,Haemodynamic instability,4,0.11,0.04,0.3,0.11,27.45,False
+METHOTREXATE,Bacterial infection,20,0.07,0.04,0.1,0.07,258.47,False
+METHOTREXATE,Mood altered,7,0.09,0.04,0.18,0.09,66.11,False
+METHOTREXATE,Skin toxicity,4,0.12,0.04,0.32,0.12,26.07,False
+METHOTREXATE,Intervertebral disc protrusion,7,0.09,0.04,0.19,0.09,63.54,False
+METHOTREXATE,Haematocrit decreased,8,0.08,0.04,0.17,0.08,80.88,False
+METHOTREXATE,Panic attack,10,0.08,0.04,0.15,0.08,101.69,False
+METHOTREXATE,Hypoacusis,11,0.07,0.04,0.13,0.07,131.5,False
+METHOTREXATE,Brain oedema,4,0.11,0.04,0.29,0.11,29.77,False
+METHOTREXATE,Pulmonary congestion,5,0.09,0.04,0.21,0.09,47.78,False
+METHOTREXATE,Osteonecrosis of jaw,5,0.09,0.04,0.22,0.09,44.76,False
+METHOTREXATE,Serum ferritin increased,3,0.12,0.04,0.38,0.12,19.05,False
+METHOTREXATE,Dementia Alzheimer's type,3,0.11,0.04,0.34,0.11,21.58,False
+METHOTREXATE,Blood lactate dehydrogenase increased,4,0.11,0.04,0.29,0.11,29.11,False
+METHOTREXATE,Injection site pain,45,0.06,0.04,0.07,0.06,716.07,False
+METHOTREXATE,Cerebral disorder,3,0.13,0.04,0.4,0.13,17.61,False
+METHOTREXATE,Hysterectomy,3,0.11,0.03,0.33,0.11,22.42,False
+METHOTREXATE,Neuropathy peripheral,23,0.04,0.03,0.07,0.04,481.72,False
+METHOTREXATE,Respiratory arrest,3,0.08,0.03,0.24,0.08,32.3,False
+METHOTREXATE,Arteriosclerosis,9,0.06,0.03,0.11,0.06,133.7,False
+METHOTREXATE,Constipation,69,0.04,0.03,0.04,0.04,1814.11,False
+METHOTREXATE,Abortion spontaneous,4,0.07,0.03,0.2,0.07,46.77,False
+METHOTREXATE,Leukocytosis,6,0.06,0.03,0.14,0.06,82.51,False
+METHOTREXATE,Drug dose omission by device,9,0.05,0.03,0.1,0.05,158.12,False
+METHOTREXATE,Blindness,9,0.05,0.03,0.1,0.05,148.08,False
+METHOTREXATE,Hyperthyroidism,6,0.06,0.03,0.14,0.06,81.11,False
+METHOTREXATE,Wrong technique in device usage process,6,0.07,0.03,0.17,0.07,68.55,False
+METHOTREXATE,Lipase increased,3,0.1,0.03,0.31,0.1,24.35,False
+METHOTREXATE,Emotional disorder,6,0.07,0.03,0.16,0.07,73.07,False
+METHOTREXATE,Breast cancer metastatic,4,0.08,0.03,0.21,0.08,42.89,False
+METHOTREXATE,Renal pain,3,0.08,0.03,0.25,0.08,32.03,False
+METHOTREXATE,Dry skin,24,0.05,0.03,0.07,0.05,448.38,False
+METHOTREXATE,Eye swelling,6,0.06,0.03,0.13,0.06,90.37,False
+METHOTREXATE,Dehydration,26,0.04,0.03,0.06,0.04,554.93,False
+METHOTREXATE,Immune thrombocytopenia,3,0.1,0.03,0.31,0.1,24.74,False
+METHOTREXATE,Hyperhidrosis,34,0.04,0.03,0.06,0.04,766.79,False
+METHOTREXATE,Coronary artery occlusion,3,0.11,0.03,0.33,0.11,22.45,False
+METHOTREXATE,Faeces soft,6,0.08,0.03,0.17,0.08,68.24,False
+METHOTREXATE,Pulmonary arterial hypertension,4,0.08,0.03,0.2,0.08,45.04,False
+METHOTREXATE,Ischaemic stroke,4,0.09,0.03,0.23,0.09,38.35,False
+METHOTREXATE,Lymphoedema,6,0.06,0.03,0.12,0.06,95.48,False
+METHOTREXATE,Hyponatraemia,21,0.04,0.03,0.06,0.04,497.92,False
+METHOTREXATE,Pulmonary alveolar haemorrhage,8,0.05,0.03,0.11,0.05,134.61,False
+METHOTREXATE,Blood creatinine increased,28,0.05,0.03,0.07,0.05,504.35,False
+METHOTREXATE,Skin irritation,6,0.07,0.03,0.16,0.07,73.73,False
+METHOTREXATE,Blood glucose decreased,6,0.06,0.03,0.13,0.06,94.23,False
+METHOTREXATE,Vitamin B12 deficiency,4,0.07,0.03,0.19,0.07,48.86,False
+METHOTREXATE,Hepatic failure,5,0.07,0.03,0.16,0.07,63.51,False
+METHOTREXATE,Faecaloma,4,0.07,0.03,0.2,0.07,45.8,False
+METHOTREXATE,Muscle atrophy,4,0.08,0.03,0.22,0.08,41.71,False
+METHOTREXATE,Arrhythmia,8,0.07,0.03,0.13,0.07,103.04,False
+METHOTREXATE,Transient ischaemic attack,13,0.05,0.03,0.09,0.05,212.73,False
+METHOTREXATE,Aspergillus infection,4,0.07,0.03,0.2,0.07,46.16,False
+METHOTREXATE,Vision blurred,22,0.05,0.03,0.07,0.05,412.0,False
+METHOTREXATE,Tremor,30,0.04,0.03,0.06,0.04,689.8,False
+METHOTREXATE,Infusion site swelling,8,0.05,0.03,0.1,0.05,137.32,False
+METHOTREXATE,Respiratory depression,3,0.1,0.03,0.31,0.1,24.62,False
+METHOTREXATE,Bone pain,15,0.06,0.03,0.09,0.06,237.04,False
+METHOTREXATE,Insurance issue,10,0.05,0.03,0.09,0.05,176.88,False
+METHOTREXATE,Pyelonephritis,3,0.08,0.03,0.25,0.08,30.79,False
+METHOTREXATE,Muscle strain,3,0.09,0.03,0.27,0.09,28.73,False
+METHOTREXATE,Speech disorder,10,0.06,0.03,0.11,0.06,146.5,False
+METHOTREXATE,Aplastic anaemia,3,0.08,0.03,0.26,0.08,29.97,False
+METHOTREXATE,Musculoskeletal chest pain,8,0.07,0.03,0.14,0.07,100.07,False
+METHOTREXATE,Shock haemorrhagic,4,0.09,0.03,0.25,0.09,35.11,False
+METHOTREXATE,Periorbital swelling,4,0.09,0.03,0.23,0.09,37.92,False
+METHOTREXATE,Chronic kidney disease,8,0.07,0.03,0.13,0.07,105.65,False
+METHOTREXATE,Procedural pain,9,0.05,0.03,0.1,0.05,148.11,False
+METHOTREXATE,Haemoglobin abnormal,3,0.08,0.03,0.25,0.08,30.91,False
+METHOTREXATE,Product distribution issue,8,0.06,0.03,0.12,0.06,121.81,False
+METHOTREXATE,Pelvic pain,5,0.07,0.03,0.17,0.07,59.08,False
+METHOTREXATE,Suicide attempt,10,0.06,0.03,0.11,0.06,145.56,False
+METHOTREXATE,Pulmonary mass,13,0.06,0.03,0.1,0.06,191.88,False
+METHOTREXATE,Haematotoxicity,4,0.09,0.03,0.23,0.09,38.08,False
+METHOTREXATE,Obstructive airways disorder,26,0.04,0.03,0.06,0.04,635.25,False
+METHOTREXATE,Red cell distribution width increased,3,0.1,0.03,0.31,0.1,24.23,False
+METHOTREXATE,Balance disorder,19,0.03,0.02,0.05,0.03,508.85,False
+METHOTREXATE,Head injury,7,0.05,0.02,0.1,0.05,135.14,False
+METHOTREXATE,Product complaint,3,0.07,0.02,0.22,0.07,35.85,False
+METHOTREXATE,Sensation of foreign body,8,0.04,0.02,0.07,0.04,211.12,False
+METHOTREXATE,Hypoglycaemia,7,0.04,0.02,0.08,0.04,175.42,False
+METHOTREXATE,Hyperlipidaemia,8,0.04,0.02,0.08,0.04,183.55,False
+METHOTREXATE,Neutrophil count decreased,20,0.03,0.02,0.05,0.03,563.53,False
+METHOTREXATE,Blood pressure abnormal,7,0.05,0.02,0.1,0.05,129.81,False
+METHOTREXATE,Glucose tolerance impaired,3,0.07,0.02,0.22,0.07,36.61,False
+METHOTREXATE,Escherichia infection,4,0.06,0.02,0.16,0.06,57.39,False
+METHOTREXATE,Diplopia,6,0.03,0.02,0.08,0.03,161.84,False
+METHOTREXATE,Diverticulum intestinal,3,0.05,0.02,0.16,0.05,50.91,False
+METHOTREXATE,Hypokinesia,3,0.05,0.02,0.15,0.05,55.02,False
+METHOTREXATE,Blood alkaline phosphatase increased,5,0.05,0.02,0.11,0.05,100.6,False
+METHOTREXATE,Skin burning sensation,5,0.04,0.02,0.1,0.04,108.11,False
+METHOTREXATE,"Hallucination, visual",5,0.04,0.02,0.1,0.04,113.44,False
+METHOTREXATE,Lactic acidosis,5,0.05,0.02,0.11,0.05,99.9,False
+METHOTREXATE,Blood test abnormal,10,0.03,0.02,0.05,0.03,330.07,False
+METHOTREXATE,Cardiac disorder,14,0.03,0.02,0.05,0.03,428.96,False
+METHOTREXATE,Proteinuria,5,0.06,0.02,0.14,0.06,76.18,False
+METHOTREXATE,Dermatitis atopic,11,0.04,0.02,0.06,0.04,290.69,False
+METHOTREXATE,Dermatitis contact,4,0.04,0.02,0.12,0.04,81.35,False
+METHOTREXATE,Ligament sprain,4,0.05,0.02,0.14,0.05,66.17,False
+METHOTREXATE,Thirst,4,0.05,0.02,0.14,0.05,69.82,False
+METHOTREXATE,Blood potassium increased,3,0.05,0.02,0.15,0.05,58.24,False
+METHOTREXATE,Diabetes mellitus inadequate control,4,0.04,0.02,0.11,0.04,90.0,False
+METHOTREXATE,Pharyngitis streptococcal,4,0.06,0.02,0.17,0.06,55.08,False
+METHOTREXATE,Eye infection,4,0.06,0.02,0.16,0.06,57.66,False
+METHOTREXATE,Unresponsive to stimuli,4,0.06,0.02,0.16,0.06,59.58,False
+METHOTREXATE,Eosinophilia,11,0.04,0.02,0.08,0.04,242.01,False
+METHOTREXATE,Incorrect drug administration rate,4,0.07,0.02,0.18,0.07,52.47,False
+METHOTREXATE,Initial insomnia,4,0.06,0.02,0.16,0.06,56.93,False
+METHOTREXATE,Blood creatine phosphokinase increased,4,0.06,0.02,0.16,0.06,57.33,False
+METHOTREXATE,Cardiomyopathy,4,0.05,0.02,0.13,0.05,75.97,False
+METHOTREXATE,Urinary tract disorder,4,0.07,0.02,0.18,0.07,52.53,False
+METHOTREXATE,Dental caries,3,0.05,0.02,0.15,0.05,55.63,False
+METHOTREXATE,Post procedural complication,4,0.06,0.02,0.16,0.06,60.82,False
+METHOTREXATE,Urine output decreased,3,0.07,0.02,0.23,0.07,34.3,False
+METHOTREXATE,Mitral valve incompetence,5,0.05,0.02,0.13,0.05,83.47,False
+METHOTREXATE,Pharyngeal swelling,3,0.05,0.02,0.15,0.05,54.96,False
+METHOTREXATE,Chronic obstructive pulmonary disease,18,0.03,0.02,0.06,0.03,481.31,False
+METHOTREXATE,Hypersomnia,6,0.04,0.02,0.09,0.04,142.31,False
+METHOTREXATE,Effusion,3,0.05,0.02,0.16,0.05,52.98,False
+METHOTREXATE,Hyperglycaemia,6,0.04,0.02,0.08,0.04,157.33,False
+METHOTREXATE,Gastrointestinal pain,3,0.05,0.02,0.15,0.05,58.03,False
+METHOTREXATE,Hypoxia,16,0.04,0.02,0.06,0.04,370.84,False
+METHOTREXATE,Concussion,3,0.05,0.02,0.15,0.05,56.05,False
+METHOTREXATE,Pneumothorax,9,0.04,0.02,0.08,0.04,191.63,False
+METHOTREXATE,Hot flush,9,0.03,0.02,0.06,0.03,249.29,False
+METHOTREXATE,Injection site mass,5,0.05,0.02,0.12,0.05,89.13,False
+METHOTREXATE,Dysphonia,25,0.04,0.02,0.05,0.04,644.53,False
+METHOTREXATE,Myasthenia gravis,9,0.04,0.02,0.07,0.04,237.65,False
+METHOTREXATE,Euphoric mood,3,0.08,0.02,0.24,0.08,33.3,False
+METHOTREXATE,Restlessness,5,0.04,0.02,0.1,0.04,113.56,False
+METHOTREXATE,Breast mass,3,0.08,0.02,0.24,0.08,33.27,False
+METHOTREXATE,Multiple allergies,5,0.05,0.02,0.12,0.05,88.27,False
+METHOTREXATE,Blood urea increased,5,0.05,0.02,0.13,0.05,86.15,False
+METHOTREXATE,Dementia,9,0.04,0.02,0.09,0.04,185.08,False
+METHOTREXATE,Paraesthesia oral,5,0.05,0.02,0.12,0.05,90.28,False
+METHOTREXATE,Wrist fracture,3,0.05,0.02,0.17,0.05,50.0,False
+METHOTREXATE,Respiratory distress,3,0.03,0.01,0.1,0.03,84.88,False
+METHOTREXATE,Eye pruritus,3,0.02,0.01,0.06,0.02,151.3,False
+METHOTREXATE,Facial pain,3,0.04,0.01,0.13,0.04,66.7,False
+METHOTREXATE,Hyperkalaemia,3,0.02,0.01,0.05,0.02,164.14,False
+METHOTREXATE,Haemoptysis,6,0.01,0.01,0.03,0.01,429.43,False
+METHOTREXATE,Complication of device insertion,3,0.03,0.01,0.09,0.03,94.97,False
+METHOTREXATE,Cardiovascular disorder,5,0.03,0.01,0.07,0.03,157.03,False
+METHOTREXATE,Obstructive sleep apnoea syndrome,4,0.02,0.01,0.05,0.02,218.71,False
+METHOTREXATE,Wrong technique in product usage process,11,0.02,0.01,0.04,0.02,425.88,False
+METHOTREXATE,Unevaluable event,4,0.03,0.01,0.09,0.03,115.21,False
+METHOTREXATE,Haematemesis,4,0.03,0.01,0.08,0.03,117.53,False
+METHOTREXATE,Intentional overdose,4,0.03,0.01,0.07,0.03,149.74,False
+METHOTREXATE,Depressed level of consciousness,4,0.02,0.01,0.04,0.02,235.86,False
+METHOTREXATE,Infusion site erythema,4,0.02,0.01,0.06,0.02,157.0,False
+METHOTREXATE,Eructation,4,0.03,0.01,0.07,0.03,142.88,False
+METHOTREXATE,Neuralgia,5,0.02,0.01,0.04,0.02,304.66,False
+METHOTREXATE,Acne,5,0.03,0.01,0.08,0.03,135.07,False
+METHOTREXATE,Retching,5,0.03,0.01,0.07,0.03,172.82,False
+METHOTREXATE,Dyskinesia,5,0.03,0.01,0.07,0.03,167.76,False
+METHOTREXATE,Temperature regulation disorder,4,0.02,0.01,0.04,0.02,247.54,False
+METHOTREXATE,Ventricular fibrillation,5,0.03,0.01,0.07,0.03,153.35,False
+METHOTREXATE,Gout,5,0.02,0.01,0.05,0.02,241.43,False
+METHOTREXATE,Micturition urgency,6,0.03,0.01,0.06,0.03,205.93,False
+METHOTREXATE,Device issue,6,0.02,0.01,0.05,0.02,266.95,False
+METHOTREXATE,Coronary artery disease,8,0.02,0.01,0.04,0.02,422.93,False
+METHOTREXATE,Vasculitis,6,0.02,0.01,0.05,0.02,235.36,False
+METHOTREXATE,Blood glucose increased,8,0.02,0.01,0.04,0.02,343.9,False
+METHOTREXATE,Hypothyroidism,8,0.03,0.01,0.06,0.03,268.48,False
+METHOTREXATE,Flushing,7,0.02,0.01,0.05,0.02,275.55,False
+METHOTREXATE,Disturbance in attention,7,0.03,0.01,0.07,0.03,209.67,False
+METHOTREXATE,Hallucination,7,0.02,0.01,0.04,0.02,325.72,False
+METHOTREXATE,Angioedema,11,0.03,0.01,0.05,0.03,395.01,False
+METHOTREXATE,Food allergy,4,0.01,0.01,0.04,0.01,283.69,False
+METHOTREXATE,Foetal death,4,0.02,0.01,0.05,0.02,221.0,False
+METHOTREXATE,Acute myocardial infarction,3,0.05,0.01,0.14,0.05,60.62,False
+METHOTREXATE,Palmar-plantar erythrodysaesthesia syndrome,3,0.04,0.01,0.12,0.04,69.84,False
+METHOTREXATE,Acute myeloid leukaemia,3,0.04,0.01,0.13,0.04,63.66,False
+METHOTREXATE,Haematoma,3,0.03,0.01,0.1,0.03,91.95,False
+METHOTREXATE,Restless legs syndrome,3,0.05,0.01,0.14,0.05,59.73,False
+METHOTREXATE,Malnutrition,3,0.03,0.01,0.1,0.03,88.93,False
+METHOTREXATE,Dizziness postural,3,0.04,0.01,0.11,0.04,79.19,False
+METHOTREXATE,Rhabdomyolysis,3,0.03,0.01,0.08,0.03,105.27,False
+METHOTREXATE,Choking,3,0.04,0.01,0.13,0.04,66.61,False
+METHOTREXATE,Hypomagnesaemia,3,0.03,0.01,0.11,0.03,81.26,False
+METHOTREXATE,Ventricular tachycardia,3,0.04,0.01,0.13,0.04,64.63,False
+METHOTREXATE,Faeces discoloured,3,0.04,0.01,0.13,0.04,65.0,False
+METHOTREXATE,Melaena,3,0.03,0.01,0.1,0.03,83.27,False
+METHOTREXATE,Pneumonia aspiration,3,0.03,0.01,0.09,0.03,102.98,False
+METHOTREXATE,Injection site urticaria,3,0.04,0.01,0.14,0.04,60.83,False
+METHOTREXATE,Mental impairment,3,0.04,0.01,0.12,0.04,74.62,False
+METHOTREXATE,Lung opacity,4,0.02,0.01,0.06,0.02,178.31,False
+METHOTREXATE,Altered state of consciousness,4,0.03,0.01,0.08,0.03,124.08,False
+METHOTREXATE,Dyspnoea exertional,12,0.02,0.01,0.04,0.02,514.29,False
+METHOTREXATE,Device leakage,4,0.03,0.01,0.09,0.03,111.07,False
+METHOTREXATE,Rash macular,4,0.03,0.01,0.08,0.03,129.93,False
+METHOTREXATE,Appendicitis,4,0.02,0.01,0.06,0.02,178.98,False
+METHOTREXATE,Activated partial thromboplastin time prolonged,3,0.01,0.0,0.04,0.01,221.51,False
+METHOTREXATE,Sedation,3,0.01,0.0,0.02,0.01,398.31,False
+METHOTREXATE,Impaired gastric emptying,5,0.01,0.0,0.02,0.01,515.57,False
+METHOTREXATE,Hypoproteinaemia,3,0.01,0.0,0.05,0.01,200.46,False
+METHOTREXATE,Full blood count abnormal,3,0.01,0.0,0.02,0.01,438.24,False
+METHOTREXATE,Emotional distress,4,0.01,0.0,0.03,0.01,387.93,False
+METHOTREXATE,Hereditary angioedema,4,0.01,0.0,0.02,0.01,586.33,False
