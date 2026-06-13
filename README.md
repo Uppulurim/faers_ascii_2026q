@@ -100,3 +100,4 @@ Large FAERS raw datasets are excluded from this repository due to GitHub file si
 ## Author
 
 Developed as part of an AI-driven pharmacovigilance analytics project focusing on real-world drug safety signal detection.
+# FAERS Pharmacovigilance Platform
